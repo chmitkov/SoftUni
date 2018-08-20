@@ -1,0 +1,11 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\bin\Debug\netcoreapp2.0\Exam_Prep_4_4.deps.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\bin\Debug\netcoreapp2.0\Exam_Prep_4_4.runtimeconfig.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\bin\Debug\netcoreapp2.0\Exam_Prep_4_4.runtimeconfig.dev.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\bin\Debug\netcoreapp2.0\Exam_Prep_4_4.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\bin\Debug\netcoreapp2.0\Exam_Prep_4_4.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\obj\Debug\netcoreapp2.0\Exam_Prep_4_4.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\obj\Debug\netcoreapp2.0\Exam_Prep_4_4.AssemblyInfoInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\obj\Debug\netcoreapp2.0\Exam_Prep_4_4.AssemblyInfo.cs
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\obj\Debug\netcoreapp2.0\Exam_Prep_4_4.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\obj\Debug\netcoreapp2.0\Exam_Prep_4_4.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\Exam_Prep_4_4\obj\Debug\netcoreapp2.0\Exam_Prep_4_4.csprojAssemblyReference.cache

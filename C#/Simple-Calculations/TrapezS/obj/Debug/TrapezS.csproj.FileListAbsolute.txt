@@ -1,0 +1,6 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\TrapezS\bin\Debug\TrapezS.exe.config
+C:\Users\4o4o9\source\repos\Simple-Calculations\TrapezS\bin\Debug\TrapezS.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\TrapezS\bin\Debug\TrapezS.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\TrapezS\obj\Debug\TrapezS.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\TrapezS\obj\Debug\TrapezS.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\TrapezS\obj\Debug\TrapezS.pdb

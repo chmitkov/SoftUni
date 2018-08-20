@@ -1,0 +1,11 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.deps.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.runtimeconfig.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.runtimeconfig.dev.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\bin\Debug\netcoreapp2.0\04. Snowwhite.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.csprojAssemblyReference.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.AssemblyInfoInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.AssemblyInfo.cs
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\04. Snowwhite\obj\Debug\netcoreapp2.0\04. Snowwhite.pdb

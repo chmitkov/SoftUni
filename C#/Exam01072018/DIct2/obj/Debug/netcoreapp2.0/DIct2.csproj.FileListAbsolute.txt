@@ -1,0 +1,11 @@
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\bin\Debug\netcoreapp2.0\DIct2.deps.json
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\bin\Debug\netcoreapp2.0\DIct2.runtimeconfig.json
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\bin\Debug\netcoreapp2.0\DIct2.runtimeconfig.dev.json
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\bin\Debug\netcoreapp2.0\DIct2.dll
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\bin\Debug\netcoreapp2.0\DIct2.pdb
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\obj\Debug\netcoreapp2.0\DIct2.csprojAssemblyReference.cache
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\obj\Debug\netcoreapp2.0\DIct2.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\obj\Debug\netcoreapp2.0\DIct2.AssemblyInfoInputs.cache
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\obj\Debug\netcoreapp2.0\DIct2.AssemblyInfo.cs
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\obj\Debug\netcoreapp2.0\DIct2.dll
+C:\Users\4o4o9\source\repos\Exam01072018\DIct2\obj\Debug\netcoreapp2.0\DIct2.pdb

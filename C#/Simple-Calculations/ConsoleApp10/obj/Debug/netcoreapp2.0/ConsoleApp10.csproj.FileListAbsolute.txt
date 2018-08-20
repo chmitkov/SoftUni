@@ -1,0 +1,11 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.deps.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.runtimeconfig.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\bin\Debug\netcoreapp2.0\ConsoleApp10.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp10\obj\Debug\netcoreapp2.0\ConsoleApp10.pdb

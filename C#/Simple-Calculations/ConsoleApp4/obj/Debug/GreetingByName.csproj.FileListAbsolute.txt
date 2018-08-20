@@ -1,0 +1,6 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp4\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

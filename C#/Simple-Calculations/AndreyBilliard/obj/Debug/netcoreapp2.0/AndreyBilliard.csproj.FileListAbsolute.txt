@@ -1,0 +1,11 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\bin\Debug\netcoreapp2.0\AndreyBilliard.deps.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\bin\Debug\netcoreapp2.0\AndreyBilliard.runtimeconfig.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\bin\Debug\netcoreapp2.0\AndreyBilliard.runtimeconfig.dev.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\bin\Debug\netcoreapp2.0\AndreyBilliard.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\bin\Debug\netcoreapp2.0\AndreyBilliard.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\obj\Debug\netcoreapp2.0\AndreyBilliard.csprojAssemblyReference.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\obj\Debug\netcoreapp2.0\AndreyBilliard.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\obj\Debug\netcoreapp2.0\AndreyBilliard.AssemblyInfoInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\obj\Debug\netcoreapp2.0\AndreyBilliard.AssemblyInfo.cs
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\obj\Debug\netcoreapp2.0\AndreyBilliard.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\AndreyBilliard\obj\Debug\netcoreapp2.0\AndreyBilliard.pdb

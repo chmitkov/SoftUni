@@ -1,0 +1,11 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\bin\Debug\netcoreapp2.0\exam.deps.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\bin\Debug\netcoreapp2.0\exam.runtimeconfig.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\bin\Debug\netcoreapp2.0\exam.runtimeconfig.dev.json
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\bin\Debug\netcoreapp2.0\exam.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\bin\Debug\netcoreapp2.0\exam.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\obj\Debug\netcoreapp2.0\exam.csprojAssemblyReference.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\obj\Debug\netcoreapp2.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\obj\Debug\netcoreapp2.0\exam.AssemblyInfoInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\obj\Debug\netcoreapp2.0\exam.AssemblyInfo.cs
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\obj\Debug\netcoreapp2.0\exam.dll
+C:\Users\4o4o9\source\repos\Simple-Calculations\exam\obj\Debug\netcoreapp2.0\exam.pdb

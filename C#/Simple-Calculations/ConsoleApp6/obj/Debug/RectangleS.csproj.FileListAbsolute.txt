@@ -1,0 +1,7 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp6\obj\Debug\RectangleS.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp6\obj\Debug\RectangleS.csprojAssemblyReference.cache

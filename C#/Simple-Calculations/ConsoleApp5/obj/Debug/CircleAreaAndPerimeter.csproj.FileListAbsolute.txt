@@ -1,0 +1,7 @@
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp5\obj\Debug\CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp5\obj\Debug\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\4o4o9\source\repos\Simple-Calculations\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

@@ -1,0 +1,11 @@
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\bin\Debug\netcoreapp2.0\Exam_Problem_02.deps.json
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\bin\Debug\netcoreapp2.0\Exam_Problem_02.runtimeconfig.json
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\bin\Debug\netcoreapp2.0\Exam_Problem_02.runtimeconfig.dev.json
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\bin\Debug\netcoreapp2.0\Exam_Problem_02.dll
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\bin\Debug\netcoreapp2.0\Exam_Problem_02.pdb
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\obj\Debug\netcoreapp2.0\Exam_Problem_02.csprojAssemblyReference.cache
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\obj\Debug\netcoreapp2.0\Exam_Problem_02.csproj.CoreCompileInputs.cache
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\obj\Debug\netcoreapp2.0\Exam_Problem_02.AssemblyInfoInputs.cache
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\obj\Debug\netcoreapp2.0\Exam_Problem_02.AssemblyInfo.cs
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\obj\Debug\netcoreapp2.0\Exam_Problem_02.dll
+C:\Users\4o4o9\source\repos\Exam01072018\Exam_Problem_02\obj\Debug\netcoreapp2.0\Exam_Problem_02.pdb
