@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_07. AndreyAndBilliard\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_07. AndreyAndBilliard.pdb

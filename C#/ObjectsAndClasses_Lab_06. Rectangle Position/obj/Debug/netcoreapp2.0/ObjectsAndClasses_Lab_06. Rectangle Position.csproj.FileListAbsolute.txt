@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_06. Rectangle Position\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_06. Rectangle Position.pdb

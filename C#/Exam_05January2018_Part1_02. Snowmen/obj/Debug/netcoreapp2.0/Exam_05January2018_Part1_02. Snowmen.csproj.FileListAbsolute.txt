@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_02. Snowmen\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_02. Snowmen.pdb

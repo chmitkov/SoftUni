@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.deps.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.runtimeconfig.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.pdb
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.AssemblyInfo.cs
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_02. SoftUni Karaoke\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_02. SoftUni Karaoke.pdb

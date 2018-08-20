@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\bin\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_03. Last K Numbers Sums\obj\Debug\netcoreapp2.0\Arrays___Lab_03. Last K Numbers Sums.pdb

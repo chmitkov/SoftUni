@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Hornet\bin\Debug\Hornet.exe.config
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Hornet\bin\Debug\Hornet.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Hornet\bin\Debug\Hornet.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Hornet\obj\Debug\Hornet.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Hornet\obj\Debug\Hornet.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Hornet\obj\Debug\Hornet.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Hornet\obj\Debug\Hornet.pdb

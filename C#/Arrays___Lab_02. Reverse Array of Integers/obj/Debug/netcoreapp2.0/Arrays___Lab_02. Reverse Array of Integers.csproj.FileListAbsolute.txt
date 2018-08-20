@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\Arrays___Lab_02. Reverse Array of Integers.pdb

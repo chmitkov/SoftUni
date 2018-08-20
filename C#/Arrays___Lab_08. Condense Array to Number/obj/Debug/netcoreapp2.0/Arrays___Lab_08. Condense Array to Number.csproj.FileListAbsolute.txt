@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\bin\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\bin\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\bin\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\bin\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\bin\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\obj\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\obj\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\obj\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\obj\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\obj\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_08. Condense Array to Number\obj\Debug\netcoreapp2.0\Arrays___Lab_08. Condense Array to Number.pdb

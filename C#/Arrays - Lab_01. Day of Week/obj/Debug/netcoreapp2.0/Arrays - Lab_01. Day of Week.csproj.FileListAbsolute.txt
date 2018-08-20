@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\bin\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\bin\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\bin\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\bin\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\bin\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\obj\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\obj\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\obj\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\obj\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\obj\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays - Lab_01. Day of Week\obj\Debug\netcoreapp2.0\Arrays - Lab_01. Day of Week.pdb

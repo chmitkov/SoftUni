@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\DownSite\bin\Debug\DownSite.exe.config
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\DownSite\bin\Debug\DownSite.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\DownSite\bin\Debug\DownSite.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\DownSite\obj\Debug\DownSite.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\DownSite\obj\Debug\DownSite.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\DownSite\obj\Debug\DownSite.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\DownSite\obj\Debug\DownSite.pdb

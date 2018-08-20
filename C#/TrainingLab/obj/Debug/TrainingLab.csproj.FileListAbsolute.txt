@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\App1\TrainingLab\bin\Debug\TrainingLab.exe.config
+C:\Users\C_\source\repos\App1\TrainingLab\bin\Debug\TrainingLab.exe
+C:\Users\C_\source\repos\App1\TrainingLab\bin\Debug\TrainingLab.pdb
+C:\Users\C_\source\repos\App1\TrainingLab\obj\Debug\TrainingLab.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\App1\TrainingLab\obj\Debug\TrainingLab.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\App1\TrainingLab\obj\Debug\TrainingLab.exe
+C:\Users\C_\source\repos\App1\TrainingLab\obj\Debug\TrainingLab.pdb

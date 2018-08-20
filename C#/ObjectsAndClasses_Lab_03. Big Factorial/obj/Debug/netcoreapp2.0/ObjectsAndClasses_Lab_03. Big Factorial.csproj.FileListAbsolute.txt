@@ -1,0 +1,10 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Lab_03. Big Factorial\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Lab_03. Big Factorial.pdb

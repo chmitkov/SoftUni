@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\bin\Debug\netcoreapp2.0\Problem 2. AnonT.deps.json
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\bin\Debug\netcoreapp2.0\Problem 2. AnonT.runtimeconfig.json
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\bin\Debug\netcoreapp2.0\Problem 2. AnonT.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\bin\Debug\netcoreapp2.0\Problem 2. AnonT.dll
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\bin\Debug\netcoreapp2.0\Problem 2. AnonT.pdb
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\obj\Debug\netcoreapp2.0\Problem 2. AnonT.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\obj\Debug\netcoreapp2.0\Problem 2. AnonT.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\obj\Debug\netcoreapp2.0\Problem 2. AnonT.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\obj\Debug\netcoreapp2.0\Problem 2. AnonT.AssemblyInfo.cs
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\obj\Debug\netcoreapp2.0\Problem 2. AnonT.dll
+C:\Users\C_\source\repos\ExamProblems\Problem 2. AnonT\obj\Debug\netcoreapp2.0\Problem 2. AnonT.pdb

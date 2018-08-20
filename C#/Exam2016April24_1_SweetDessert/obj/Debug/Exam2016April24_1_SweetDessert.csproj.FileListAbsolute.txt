@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_1_SweetDessert\obj\Debug\Exam2016April24_1_SweetDessert.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_1_SweetDessert\obj\Debug\Exam2016April24_1_SweetDessert.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_1_SweetDessert\bin\Debug\Exam2016April24_1_SweetDessert.exe.config
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_1_SweetDessert\bin\Debug\Exam2016April24_1_SweetDessert.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_1_SweetDessert\bin\Debug\Exam2016April24_1_SweetDessert.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_1_SweetDessert\obj\Debug\Exam2016April24_1_SweetDessert.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_1_SweetDessert\obj\Debug\Exam2016April24_1_SweetDessert.pdb

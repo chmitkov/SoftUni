@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_01. Poke Mon\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_01. Poke Mon.pdb

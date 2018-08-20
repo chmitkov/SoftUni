@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.deps.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.runtimeconfig.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\bin\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.pdb
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.AssemblyInfo.cs
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam__Exam_January_2017_03. Endurance Rally\obj\Debug\netcoreapp2.0\PF_Exam__Exam_January_2017_03. Endurance Rally.pdb

@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\App1\TransportPrice\bin\Debug\TransportPrice.exe.config
+C:\Users\C_\source\repos\App1\TransportPrice\bin\Debug\TransportPrice.exe
+C:\Users\C_\source\repos\App1\TransportPrice\bin\Debug\TransportPrice.pdb
+C:\Users\C_\source\repos\App1\TransportPrice\obj\Debug\TransportPrice.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\App1\TransportPrice\obj\Debug\TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\App1\TransportPrice\obj\Debug\TransportPrice.exe
+C:\Users\C_\source\repos\App1\TransportPrice\obj\Debug\TransportPrice.pdb

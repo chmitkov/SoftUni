@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\A_Threat\bin\Debug\A_Threat.exe.config
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\A_Threat\bin\Debug\A_Threat.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\A_Threat\bin\Debug\A_Threat.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\A_Threat\obj\Debug\A_Threat.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\A_Threat\obj\Debug\A_Threat.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\A_Threat\obj\Debug\A_Threat.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\A_Threat\obj\Debug\A_Threat.pdb

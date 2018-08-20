@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__03. Rage Quit\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__03. Rage Quit.csprojAssemblyReference.cache

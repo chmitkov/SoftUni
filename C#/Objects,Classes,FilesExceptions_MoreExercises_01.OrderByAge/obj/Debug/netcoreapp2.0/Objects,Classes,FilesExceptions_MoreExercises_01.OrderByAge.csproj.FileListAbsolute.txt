@@ -1,0 +1,10 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\bin\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\bin\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\bin\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\bin\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\bin\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\obj\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\obj\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\obj\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\obj\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge\obj\Debug\netcoreapp2.0\Objects,Classes,FilesExceptions_MoreExercises_01.OrderByAge.pdb

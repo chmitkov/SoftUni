@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Exam_PF_Retake_25April2018_Part2_03.TseamAccount/1.0.0": {
+        "runtime": {
+          "Exam_PF_Retake_25April2018_Part2_03.TseamAccount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam_PF_Retake_25April2018_Part2_03.TseamAccount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

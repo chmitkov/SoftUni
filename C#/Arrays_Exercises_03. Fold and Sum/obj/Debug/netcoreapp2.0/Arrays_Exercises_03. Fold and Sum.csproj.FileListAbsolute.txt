@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\bin\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\bin\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\bin\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\bin\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\bin\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\obj\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\obj\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\obj\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\obj\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\obj\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_03. Fold and Sum\obj\Debug\netcoreapp2.0\Arrays_Exercises_03. Fold and Sum.pdb

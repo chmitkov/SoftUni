@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\bin\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\bin\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\bin\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\bin\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\bin\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\obj\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\obj\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\obj\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\obj\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\obj\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\namespace Arrays___Lab_09. Extract Middle Elements\obj\Debug\netcoreapp2.0\Arrays___Lab_09. Extract Middle Elements.pdb

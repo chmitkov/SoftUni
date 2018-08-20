@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_2GameOfNames\bin\Debug\Exam2016April24_2GameOfNames.exe.config
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_2GameOfNames\bin\Debug\Exam2016April24_2GameOfNames.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_2GameOfNames\bin\Debug\Exam2016April24_2GameOfNames.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_2GameOfNames\obj\Debug\Exam2016April24_2GameOfNames.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_2GameOfNames\obj\Debug\Exam2016April24_2GameOfNames.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_2GameOfNames\obj\Debug\Exam2016April24_2GameOfNames.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam2016April24_2GameOfNames\obj\Debug\Exam2016April24_2GameOfNames.pdb

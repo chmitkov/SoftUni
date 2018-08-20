@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04. ForceBook\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04. ForceBook.pdb

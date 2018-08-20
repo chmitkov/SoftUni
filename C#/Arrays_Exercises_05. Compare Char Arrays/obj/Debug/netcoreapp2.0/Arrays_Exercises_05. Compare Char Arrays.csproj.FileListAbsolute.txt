@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\bin\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\bin\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\bin\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\bin\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\bin\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\obj\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\obj\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\obj\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\obj\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\obj\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays_Exercises_05. Compare Char Arrays\obj\Debug\netcoreapp2.0\Arrays_Exercises_05. Compare Char Arrays.pdb

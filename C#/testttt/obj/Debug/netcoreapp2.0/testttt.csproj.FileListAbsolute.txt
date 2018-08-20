@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\bin\Debug\netcoreapp2.0\testttt.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\bin\Debug\netcoreapp2.0\testttt.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\bin\Debug\netcoreapp2.0\testttt.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\bin\Debug\netcoreapp2.0\testttt.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\bin\Debug\netcoreapp2.0\testttt.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\obj\Debug\netcoreapp2.0\testttt.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\obj\Debug\netcoreapp2.0\testttt.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\obj\Debug\netcoreapp2.0\testttt.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\obj\Debug\netcoreapp2.0\testttt.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\obj\Debug\netcoreapp2.0\testttt.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\testttt\obj\Debug\netcoreapp2.0\testttt.csprojAssemblyReference.cache

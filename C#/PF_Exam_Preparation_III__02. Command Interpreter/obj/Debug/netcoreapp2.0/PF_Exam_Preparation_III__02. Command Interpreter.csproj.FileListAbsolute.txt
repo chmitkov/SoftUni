@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_Preparation_III__02. Command Interpreter\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_III__02. Command Interpreter.pdb

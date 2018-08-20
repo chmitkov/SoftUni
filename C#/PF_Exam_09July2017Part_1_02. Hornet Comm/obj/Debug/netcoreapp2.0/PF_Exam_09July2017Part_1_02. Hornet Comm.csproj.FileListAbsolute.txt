@@ -1,0 +1,3 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_02. Hornet Comm.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_02. Hornet Comm.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam_09July2017Part_1_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_02. Hornet Comm.AssemblyInfo.cs

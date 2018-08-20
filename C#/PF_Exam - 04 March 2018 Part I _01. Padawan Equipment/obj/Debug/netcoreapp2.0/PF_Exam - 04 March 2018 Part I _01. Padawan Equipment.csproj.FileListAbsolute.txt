@@ -1,0 +1,10 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _01. Padawan Equipment.pdb

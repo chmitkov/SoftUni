@@ -1,0 +1,10 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\bin\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_05January2018_Part1_01. Snowballs\obj\Debug\netcoreapp2.0\Exam_05January2018_Part1_01. Snowballs.pdb

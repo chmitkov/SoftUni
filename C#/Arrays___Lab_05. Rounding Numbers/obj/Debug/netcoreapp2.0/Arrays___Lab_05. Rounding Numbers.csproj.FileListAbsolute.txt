@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\bin\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\bin\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\bin\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\bin\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\bin\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\obj\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\obj\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\obj\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\obj\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\obj\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_05. Rounding Numbers\obj\Debug\netcoreapp2.0\Arrays___Lab_05. Rounding Numbers.pdb

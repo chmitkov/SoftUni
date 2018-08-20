@@ -1,0 +1,3 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04._ForceBook_ClassAndObj\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04._ForceBook_ClassAndObj.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04._ForceBook_ClassAndObj\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04._ForceBook_ClassAndObj.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_04._ForceBook_ClassAndObj\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_04._ForceBook_ClassAndObj.AssemblyInfo.cs

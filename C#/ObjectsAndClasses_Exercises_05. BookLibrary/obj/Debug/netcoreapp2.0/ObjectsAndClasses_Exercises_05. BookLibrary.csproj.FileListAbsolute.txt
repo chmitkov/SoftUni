@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\ObjectsAndClasses_Exercises_05. BookLibrary\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_05. BookLibrary.pdb

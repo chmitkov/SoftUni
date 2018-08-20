@@ -1,0 +1,10 @@
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\bin\Debug\BGNtoEUR.exe.config
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\bin\Debug\BGNtoEUR.exe
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\bin\Debug\BGNtoEUR.pdb
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\obj\Debug\BGNtoEUR.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\obj\Debug\BGNtoEUR.FormConverter.resources
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\obj\Debug\BGNtoEUR.Properties.Resources.resources
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\obj\Debug\BGNtoEUR.csproj.GenerateResource.cache
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\obj\Debug\BGNtoEUR.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\obj\Debug\BGNtoEUR.exe
+C:\Users\C_\source\repos\GUI_Programs\BGNtoEUR\obj\Debug\BGNtoEUR.pdb

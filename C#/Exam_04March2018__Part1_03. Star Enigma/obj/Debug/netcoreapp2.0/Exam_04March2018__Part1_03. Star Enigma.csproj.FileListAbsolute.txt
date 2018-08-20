@@ -1,0 +1,10 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\bin\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018__Part1_03. Star Enigma\obj\Debug\netcoreapp2.0\Exam_04March2018__Part1_03. Star Enigma.pdb

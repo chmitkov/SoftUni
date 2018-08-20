@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF Retake Exam - 25 April 2018 Part I_01. Rage Expenses.pdb

@@ -1,0 +1,7 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Resurrection\bin\Debug\Resurrection.exe.config
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Resurrection\bin\Debug\Resurrection.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Resurrection\bin\Debug\Resurrection.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Resurrection\obj\Debug\Resurrection.csprojResolveAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Resurrection\obj\Debug\Resurrection.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Resurrection\obj\Debug\Resurrection.exe
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Resurrection\obj\Debug\Resurrection.pdb

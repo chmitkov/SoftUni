@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\bin\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\bin\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\bin\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\bin\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\bin\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\obj\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\obj\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\obj\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\obj\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\obj\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_07. Sum Arrays\obj\Debug\netcoreapp2.0\Arrays___Lab_07. Sum Arrays.pdb

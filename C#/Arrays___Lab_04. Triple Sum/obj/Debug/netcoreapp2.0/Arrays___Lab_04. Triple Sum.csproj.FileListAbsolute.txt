@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\bin\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\bin\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\bin\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\bin\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\bin\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\obj\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\obj\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\obj\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\obj\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\obj\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Arrays___Lab_04. Triple Sum\obj\Debug\netcoreapp2.0\Arrays___Lab_04. Triple Sum.pdb

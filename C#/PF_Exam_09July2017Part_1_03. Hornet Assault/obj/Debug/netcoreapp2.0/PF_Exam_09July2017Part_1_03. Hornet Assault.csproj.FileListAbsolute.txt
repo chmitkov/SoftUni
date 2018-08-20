@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.deps.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.runtimeconfig.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.pdb
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.AssemblyInfo.cs
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_03. Hornet Assault.pdb

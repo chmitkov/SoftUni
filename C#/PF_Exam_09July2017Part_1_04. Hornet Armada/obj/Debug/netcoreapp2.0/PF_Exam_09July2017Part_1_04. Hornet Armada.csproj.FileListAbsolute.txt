@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.deps.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.runtimeconfig.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\bin\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.pdb
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.AssemblyInfo.cs
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.dll
+C:\Users\C_\source\repos\ExamProblems\PF_Exam_09July2017Part_1_04. Hornet Armada\obj\Debug\netcoreapp2.0\PF_Exam_09July2017Part_1_04. Hornet Armada.pdb

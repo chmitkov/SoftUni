@@ -1,0 +1,6 @@
+C:\Users\C_\source\repos\App1\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
+C:\Users\C_\source\repos\App1\OnTimeForExam\bin\Debug\OnTimeForExam.exe
+C:\Users\C_\source\repos\App1\OnTimeForExam\bin\Debug\OnTimeForExam.pdb
+C:\Users\C_\source\repos\App1\OnTimeForExam\obj\Debug\OnTimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\App1\OnTimeForExam\obj\Debug\OnTimeForExam.exe
+C:\Users\C_\source\repos\App1\OnTimeForExam\obj\Debug\OnTimeForExam.pdb

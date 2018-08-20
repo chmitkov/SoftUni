@@ -1,0 +1,11 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\bin\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.csprojAssemblyReference.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\PF_Exam - 04 March 2018 Part I _04. ForceBook\obj\Debug\netcoreapp2.0\PF_Exam - 04 March 2018 Part I _04. ForceBook.pdb

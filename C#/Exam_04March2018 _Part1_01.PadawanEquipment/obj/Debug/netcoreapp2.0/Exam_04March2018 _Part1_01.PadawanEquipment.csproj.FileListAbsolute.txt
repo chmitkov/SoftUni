@@ -1,0 +1,10 @@
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\bin\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.deps.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\bin\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.runtimeconfig.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\bin\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.runtimeconfig.dev.json
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\bin\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\bin\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.pdb
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\obj\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\obj\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\obj\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.AssemblyInfo.cs
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\obj\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.dll
+C:\Users\C_\source\repos\ProgramingFundamentalsExtended\Exam_04March2018 _Part1_01.PadawanEquipment\obj\Debug\netcoreapp2.0\Exam_04March2018 _Part1_01.PadawanEquipment.pdb
