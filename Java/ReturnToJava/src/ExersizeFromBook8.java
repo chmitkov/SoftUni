@@ -1,0 +1,2 @@
+public class ExersizeFromBook8 {
+}
