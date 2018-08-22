@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_03. Text Filter\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_03. Text Filter.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_03. Min, Max, Sum, Average.pdb

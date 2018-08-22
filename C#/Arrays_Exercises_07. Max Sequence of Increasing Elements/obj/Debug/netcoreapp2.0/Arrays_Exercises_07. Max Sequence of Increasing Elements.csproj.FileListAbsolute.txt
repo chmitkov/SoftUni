@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\Arrays_Exercises_07. Max Sequence of Increasing Elements.csprojAssemblyReference.cache

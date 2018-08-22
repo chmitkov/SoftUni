@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_07.QueryMess\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_07.QueryMess.pdb

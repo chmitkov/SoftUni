@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\bin\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\bin\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\bin\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\bin\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\bin\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\obj\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\obj\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\obj\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\obj\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\obj\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_11. Equal Sums\obj\Debug\netcoreapp2.0\Arrays_Exercises_11. Equal Sums.pdb

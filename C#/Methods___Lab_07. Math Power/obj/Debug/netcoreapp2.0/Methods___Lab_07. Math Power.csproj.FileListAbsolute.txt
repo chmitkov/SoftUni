@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\bin\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\bin\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\bin\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\bin\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\bin\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\obj\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\obj\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\obj\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\obj\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_07. Math Power\obj\Debug\netcoreapp2.0\Methods___Lab_07. Math Power.pdb

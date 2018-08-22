@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\bin\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\bin\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\bin\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\bin\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\bin\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\obj\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\obj\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\obj\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\obj\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\obj\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_15.Substring\obj\Debug\netcoreapp2.0\Methods___Exercises_15.Substring.pdb

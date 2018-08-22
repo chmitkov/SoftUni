@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trinegram2\bin\Debug\Exam_Trinegram2.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trinegram2\bin\Debug\Exam_Trinegram2.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trinegram2\bin\Debug\Exam_Trinegram2.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trinegram2\obj\Debug\Exam_Trinegram2.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trinegram2\obj\Debug\Exam_Trinegram2.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trinegram2\obj\Debug\Exam_Trinegram2.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trinegram2\obj\Debug\Exam_Trinegram2.pdb

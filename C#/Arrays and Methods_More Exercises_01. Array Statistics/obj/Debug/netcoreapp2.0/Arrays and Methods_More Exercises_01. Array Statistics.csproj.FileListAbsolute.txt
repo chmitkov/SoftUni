@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\bin\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\bin\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\bin\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\bin\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\bin\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\obj\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\obj\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\obj\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\obj\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays and Methods_More Exercises_01. Array Statistics\obj\Debug\netcoreapp2.0\Arrays and Methods_More Exercises_01. Array Statistics.pdb

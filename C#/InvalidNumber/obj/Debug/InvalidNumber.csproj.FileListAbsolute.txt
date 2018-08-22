@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+C:\Users\9999\source\repos\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe
+C:\Users\9999\source\repos\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.pdb
+C:\Users\9999\source\repos\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.exe
+C:\Users\9999\source\repos\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Rotate Array of Strings\bin\Debug\Rotate Array of Strings.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Rotate Array of Strings\bin\Debug\Rotate Array of Strings.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Rotate Array of Strings\bin\Debug\Rotate Array of Strings.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Rotate Array of Strings\obj\Debug\Rotate Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Rotate Array of Strings\obj\Debug\Rotate Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Rotate Array of Strings\obj\Debug\Rotate Array of Strings.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Rotate Array of Strings\obj\Debug\Rotate Array of Strings.pdb

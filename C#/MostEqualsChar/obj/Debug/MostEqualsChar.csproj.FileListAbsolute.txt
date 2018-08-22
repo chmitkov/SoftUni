@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Arrays\MostEqualsChar\bin\Debug\MostEqualsChar.exe.config
+C:\Users\9999\source\repos\Arrays\MostEqualsChar\bin\Debug\MostEqualsChar.exe
+C:\Users\9999\source\repos\Arrays\MostEqualsChar\bin\Debug\MostEqualsChar.pdb
+C:\Users\9999\source\repos\Arrays\MostEqualsChar\obj\Debug\MostEqualsChar.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\MostEqualsChar\obj\Debug\MostEqualsChar.exe
+C:\Users\9999\source\repos\Arrays\MostEqualsChar\obj\Debug\MostEqualsChar.pdb

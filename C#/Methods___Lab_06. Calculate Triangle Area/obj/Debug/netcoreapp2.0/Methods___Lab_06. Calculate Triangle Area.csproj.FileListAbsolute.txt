@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\Methods___Lab_06. Calculate Triangle Area.pdb

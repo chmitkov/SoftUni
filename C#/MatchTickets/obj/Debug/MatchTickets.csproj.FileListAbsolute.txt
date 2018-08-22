@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\MatchTickets\bin\Debug\MatchTickets.exe.config
+C:\Users\9999\source\repos\ComplexConditions\MatchTickets\bin\Debug\MatchTickets.exe
+C:\Users\9999\source\repos\ComplexConditions\MatchTickets\bin\Debug\MatchTickets.pdb
+C:\Users\9999\source\repos\ComplexConditions\MatchTickets\obj\Debug\MatchTickets.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\MatchTickets\obj\Debug\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\MatchTickets\obj\Debug\MatchTickets.exe
+C:\Users\9999\source\repos\ComplexConditions\MatchTickets\obj\Debug\MatchTickets.pdb

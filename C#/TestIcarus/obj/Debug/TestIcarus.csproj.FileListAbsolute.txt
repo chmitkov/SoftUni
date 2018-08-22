@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestIcarus\bin\Debug\TestIcarus.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestIcarus\bin\Debug\TestIcarus.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestIcarus\bin\Debug\TestIcarus.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestIcarus\obj\Debug\TestIcarus.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestIcarus\obj\Debug\TestIcarus.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestIcarus\obj\Debug\TestIcarus.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestIcarus\obj\Debug\TestIcarus.pdb

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_02. Kamino Factory\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_02. Kamino Factory.pdb

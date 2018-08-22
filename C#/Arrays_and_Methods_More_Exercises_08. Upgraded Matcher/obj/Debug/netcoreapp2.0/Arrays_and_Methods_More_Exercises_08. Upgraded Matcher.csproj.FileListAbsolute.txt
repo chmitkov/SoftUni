@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_08. Upgraded Matcher.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_02. Odd Filter\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_02. Odd Filter.pdb

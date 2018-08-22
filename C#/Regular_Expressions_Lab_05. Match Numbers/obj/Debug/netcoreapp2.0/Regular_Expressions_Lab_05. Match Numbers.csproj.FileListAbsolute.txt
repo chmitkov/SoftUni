@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_05. Match Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_05. Match Numbers.pdb

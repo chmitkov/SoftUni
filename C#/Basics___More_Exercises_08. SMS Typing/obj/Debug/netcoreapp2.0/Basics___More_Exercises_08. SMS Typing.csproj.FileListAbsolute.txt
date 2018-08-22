@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\bin\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\bin\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\bin\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\bin\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\bin\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\obj\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\obj\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\obj\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\obj\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\obj\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_08. SMS Typing\obj\Debug\netcoreapp2.0\Basics___More_Exercises_08. SMS Typing.pdb

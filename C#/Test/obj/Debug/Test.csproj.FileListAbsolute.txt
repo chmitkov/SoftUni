@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Test\bin\Debug\Test.exe.config
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Test\bin\Debug\Test.exe
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Test\bin\Debug\Test.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Test\obj\Debug\Test.exe
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Test\obj\Debug\Test.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_10. Triangle of Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_10. Triangle of Numbers.pdb

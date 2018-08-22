@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe.config
+C:\Users\9999\source\repos\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe
+C:\Users\9999\source\repos\ComplexConditions\SmallShop\bin\Debug\SmallShop.pdb
+C:\Users\9999\source\repos\ComplexConditions\SmallShop\obj\Debug\SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\SmallShop\obj\Debug\SmallShop.exe
+C:\Users\9999\source\repos\ComplexConditions\SmallShop\obj\Debug\SmallShop.pdb

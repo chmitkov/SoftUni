@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\bin\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\bin\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\bin\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\bin\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\bin\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\obj\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\obj\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\obj\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\obj\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_05. BPM Counter\obj\Debug\netcoreapp2.0\Basics___More_Exercises_05. BPM Counter.pdb

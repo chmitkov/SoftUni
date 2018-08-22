@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P05_SinoTheWalker\bin\Debug\P05_SinoTheWalker.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P05_SinoTheWalker\bin\Debug\P05_SinoTheWalker.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P05_SinoTheWalker\bin\Debug\P05_SinoTheWalker.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P05_SinoTheWalker\obj\Debug\P05_SinoTheWalker.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P05_SinoTheWalker\obj\Debug\P05_SinoTheWalker.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P05_SinoTheWalker\obj\Debug\P05_SinoTheWalker.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P05_SinoTheWalker\obj\Debug\P05_SinoTheWalker.pdb

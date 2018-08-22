@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\bin\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\bin\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\bin\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\bin\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\bin\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\obj\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\obj\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\obj\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\obj\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\obj\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_I___June_2016_03. Target Multiplier\obj\Debug\netcoreapp2.0\PF_Exam_I___June_2016_03. Target Multiplier.pdb

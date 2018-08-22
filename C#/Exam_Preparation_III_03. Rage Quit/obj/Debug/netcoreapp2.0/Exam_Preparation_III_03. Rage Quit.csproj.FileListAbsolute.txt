@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\bin\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\bin\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\bin\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\bin\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\bin\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\obj\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\obj\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\obj\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\obj\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\obj\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_03. Rage Quit\obj\Debug\netcoreapp2.0\Exam_Preparation_III_03. Rage Quit.pdb

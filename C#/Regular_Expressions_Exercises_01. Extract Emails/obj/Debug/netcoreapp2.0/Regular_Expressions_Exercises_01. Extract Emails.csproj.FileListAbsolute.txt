@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_01. Extract Emails\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_01. Extract Emails.pdb

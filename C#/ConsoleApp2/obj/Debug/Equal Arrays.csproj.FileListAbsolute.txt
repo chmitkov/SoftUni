@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Arrays\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\9999\source\repos\Arrays\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\9999\source\repos\Arrays\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\9999\source\repos\Arrays\ConsoleApp2\obj\Debug\Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\9999\source\repos\Arrays\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

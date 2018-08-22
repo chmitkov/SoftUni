@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Arrays\Tests\bin\Debug\Tests.exe.config
+C:\Users\9999\source\repos\Arrays\Tests\bin\Debug\Tests.exe
+C:\Users\9999\source\repos\Arrays\Tests\bin\Debug\Tests.pdb
+C:\Users\9999\source\repos\Arrays\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Arrays\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\Tests\obj\Debug\Tests.exe
+C:\Users\9999\source\repos\Arrays\Tests\obj\Debug\Tests.pdb

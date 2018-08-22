@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_06. Triples of Letters\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_06. Triples of Letters.pdb

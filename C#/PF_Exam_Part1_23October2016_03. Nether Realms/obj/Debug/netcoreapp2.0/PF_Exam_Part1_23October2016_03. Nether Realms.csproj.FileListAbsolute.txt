@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_03. Nether Realms\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_03. Nether Realms.pdb

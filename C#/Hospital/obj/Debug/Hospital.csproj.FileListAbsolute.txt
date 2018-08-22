@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Loops\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\9999\source\repos\Loops\Hospital\bin\Debug\Hospital.exe
+C:\Users\9999\source\repos\Loops\Hospital\bin\Debug\Hospital.pdb
+C:\Users\9999\source\repos\Loops\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Loops\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Loops\Hospital\obj\Debug\Hospital.exe
+C:\Users\9999\source\repos\Loops\Hospital\obj\Debug\Hospital.pdb

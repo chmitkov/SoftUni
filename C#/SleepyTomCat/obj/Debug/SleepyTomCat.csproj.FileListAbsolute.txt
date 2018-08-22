@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\SleepyTomCat\bin\Debug\SleepyTomCat.exe.config
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\SleepyTomCat\bin\Debug\SleepyTomCat.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\SleepyTomCat\bin\Debug\SleepyTomCat.pdb
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\SleepyTomCat\obj\Debug\SleepyTomCat.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\SleepyTomCat\obj\Debug\SleepyTomCat.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\SleepyTomCat\obj\Debug\SleepyTomCat.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\SleepyTomCat\obj\Debug\SleepyTomCat.pdb

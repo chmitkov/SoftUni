@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_03. Match Hexadecimal Numbers\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_03. Match Hexadecimal Numbers.pdb

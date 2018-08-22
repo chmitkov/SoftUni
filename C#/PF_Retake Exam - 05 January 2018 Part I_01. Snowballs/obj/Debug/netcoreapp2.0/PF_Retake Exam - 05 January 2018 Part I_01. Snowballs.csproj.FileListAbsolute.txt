@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake Exam - 05 January 2018 Part I_01. Snowballs.pdb

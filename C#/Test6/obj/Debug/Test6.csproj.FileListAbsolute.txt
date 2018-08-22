@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test6\bin\Debug\Test6.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test6\bin\Debug\Test6.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test6\bin\Debug\Test6.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test6\obj\Debug\Test6.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test6\obj\Debug\Test6.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test6\obj\Debug\Test6.pdb

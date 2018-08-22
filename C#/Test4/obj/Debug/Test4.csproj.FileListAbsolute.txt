@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test4\bin\Debug\Test4.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test4\bin\Debug\Test4.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test4\bin\Debug\Test4.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test4\obj\Debug\Test4.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test4\obj\Debug\Test4.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test4\obj\Debug\Test4.pdb

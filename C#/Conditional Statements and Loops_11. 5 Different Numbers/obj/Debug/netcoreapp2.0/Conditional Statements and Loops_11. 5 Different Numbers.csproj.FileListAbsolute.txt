@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_11. 5 Different Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_11. 5 Different Numbers.pdb

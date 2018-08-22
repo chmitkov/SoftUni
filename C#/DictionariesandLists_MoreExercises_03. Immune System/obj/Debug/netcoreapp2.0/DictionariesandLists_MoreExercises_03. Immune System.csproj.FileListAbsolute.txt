@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_03. Immune System\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_03. Immune System.pdb

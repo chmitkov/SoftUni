@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_Test\bin\Debug\Dictionaries_Test.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_Test\bin\Debug\Dictionaries_Test.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_Test\bin\Debug\Dictionaries_Test.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_Test\obj\Debug\Dictionaries_Test.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_Test\obj\Debug\Dictionaries_Test.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_Test\obj\Debug\Dictionaries_Test.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_Test\obj\Debug\Dictionaries_Test.pdb

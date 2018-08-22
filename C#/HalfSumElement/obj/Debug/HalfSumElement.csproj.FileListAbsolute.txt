@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Loops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+C:\Users\9999\source\repos\Loops\HalfSumElement\bin\Debug\HalfSumElement.exe
+C:\Users\9999\source\repos\Loops\HalfSumElement\bin\Debug\HalfSumElement.pdb
+C:\Users\9999\source\repos\Loops\HalfSumElement\obj\Debug\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Loops\HalfSumElement\obj\Debug\HalfSumElement.exe
+C:\Users\9999\source\repos\Loops\HalfSumElement\obj\Debug\HalfSumElement.pdb

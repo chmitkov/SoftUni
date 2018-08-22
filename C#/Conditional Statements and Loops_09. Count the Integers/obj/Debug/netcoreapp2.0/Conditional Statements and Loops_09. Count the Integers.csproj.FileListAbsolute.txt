@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_09. Count the Integers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_09. Count the Integers.pdb

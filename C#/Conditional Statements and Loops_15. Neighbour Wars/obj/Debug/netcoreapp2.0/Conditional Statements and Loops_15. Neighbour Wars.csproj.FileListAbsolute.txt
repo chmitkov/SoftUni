@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_15. Neighbour Wars\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_15. Neighbour Wars.pdb

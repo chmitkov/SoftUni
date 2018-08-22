@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_01. Reverse String\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_01. Reverse String.pdb

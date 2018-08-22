@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_04.AverageGrades\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_04.AverageGrades.pdb

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_02. Manipulate Array\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_02. Manipulate Array.pdb

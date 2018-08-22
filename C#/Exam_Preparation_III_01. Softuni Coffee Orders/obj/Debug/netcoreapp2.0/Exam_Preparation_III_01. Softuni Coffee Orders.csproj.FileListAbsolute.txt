@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\bin\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\bin\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\bin\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\bin\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\bin\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\obj\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\obj\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\obj\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\obj\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\obj\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_01. Softuni Coffee Orders\obj\Debug\netcoreapp2.0\Exam_Preparation_III_01. Softuni Coffee Orders.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\bin\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_06. Sum Reversed Numbers\obj\Debug\netcoreapp2.0\Lists_Exercises_06. Sum Reversed Numbers.pdb

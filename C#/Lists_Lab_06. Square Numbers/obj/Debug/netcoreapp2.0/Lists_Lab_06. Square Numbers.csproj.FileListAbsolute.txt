@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\bin\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\bin\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\bin\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\bin\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\bin\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\obj\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\obj\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\obj\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\obj\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_06. Square Numbers\obj\Debug\netcoreapp2.0\Lists_Lab_06. Square Numbers.pdb

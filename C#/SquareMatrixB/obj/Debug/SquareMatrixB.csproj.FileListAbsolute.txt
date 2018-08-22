@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Arrays\SquareMatrixB\bin\Debug\SquareMatrixB.exe.config
+C:\Users\9999\source\repos\Arrays\SquareMatrixB\bin\Debug\SquareMatrixB.exe
+C:\Users\9999\source\repos\Arrays\SquareMatrixB\bin\Debug\SquareMatrixB.pdb
+C:\Users\9999\source\repos\Arrays\SquareMatrixB\obj\Debug\SquareMatrixB.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Arrays\SquareMatrixB\obj\Debug\SquareMatrixB.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\SquareMatrixB\obj\Debug\SquareMatrixB.exe
+C:\Users\9999\source\repos\Arrays\SquareMatrixB\obj\Debug\SquareMatrixB.pdb

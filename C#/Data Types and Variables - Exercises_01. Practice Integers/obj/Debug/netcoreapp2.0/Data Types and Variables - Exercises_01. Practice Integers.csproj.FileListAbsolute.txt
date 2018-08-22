@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\bin\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Exercises_01. Practice Integers\obj\Debug\netcoreapp2.0\Data Types and Variables - Exercises_01. Practice Integers.csprojAssemblyReference.cache

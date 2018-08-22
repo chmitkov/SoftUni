@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_04. Cubic Messages\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_04. Cubic Messages.pdb

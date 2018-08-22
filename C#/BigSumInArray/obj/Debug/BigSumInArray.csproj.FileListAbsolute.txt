@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Arrays\BigSumInArray\bin\Debug\BigSumInArray.exe.config
+C:\Users\9999\source\repos\Arrays\BigSumInArray\bin\Debug\BigSumInArray.exe
+C:\Users\9999\source\repos\Arrays\BigSumInArray\bin\Debug\BigSumInArray.pdb
+C:\Users\9999\source\repos\Arrays\BigSumInArray\obj\Debug\BigSumInArray.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Arrays\BigSumInArray\obj\Debug\BigSumInArray.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\BigSumInArray\obj\Debug\BigSumInArray.exe
+C:\Users\9999\source\repos\Arrays\BigSumInArray\obj\Debug\BigSumInArray.pdb

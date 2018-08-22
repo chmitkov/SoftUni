@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ethods___Exercises_05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\ethods___Exercises_05. Fibonacci Numbers.csprojAssemblyReference.cache

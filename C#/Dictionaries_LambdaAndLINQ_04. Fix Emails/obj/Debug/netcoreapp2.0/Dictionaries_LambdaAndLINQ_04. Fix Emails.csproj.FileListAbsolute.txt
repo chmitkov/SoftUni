@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_04. Fix Emails\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_04. Fix Emails.pdb

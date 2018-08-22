@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringAndRegEx_P_10\bin\Debug\StringAndRegEx_P_10.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringAndRegEx_P_10\bin\Debug\StringAndRegEx_P_10.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringAndRegEx_P_10\bin\Debug\StringAndRegEx_P_10.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringAndRegEx_P_10\obj\Debug\StringAndRegEx_P_10.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringAndRegEx_P_10\obj\Debug\StringAndRegEx_P_10.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringAndRegEx_P_10\obj\Debug\StringAndRegEx_P_10.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringAndRegEx_P_10\obj\Debug\StringAndRegEx_P_10.pdb

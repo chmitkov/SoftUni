@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestNastedDictionary\bin\Debug\TestNastedDictionary.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestNastedDictionary\bin\Debug\TestNastedDictionary.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestNastedDictionary\bin\Debug\TestNastedDictionary.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestNastedDictionary\obj\Debug\TestNastedDictionary.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestNastedDictionary\obj\Debug\TestNastedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestNastedDictionary\obj\Debug\TestNastedDictionary.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestNastedDictionary\obj\Debug\TestNastedDictionary.pdb

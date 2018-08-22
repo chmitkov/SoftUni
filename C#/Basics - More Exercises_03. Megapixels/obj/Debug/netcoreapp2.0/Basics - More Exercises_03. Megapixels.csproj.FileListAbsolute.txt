@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\bin\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\bin\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\bin\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\bin\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\bin\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\obj\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\obj\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\obj\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\obj\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_03. Megapixels\obj\Debug\netcoreapp2.0\Basics - More Exercises_03. Megapixels.pdb

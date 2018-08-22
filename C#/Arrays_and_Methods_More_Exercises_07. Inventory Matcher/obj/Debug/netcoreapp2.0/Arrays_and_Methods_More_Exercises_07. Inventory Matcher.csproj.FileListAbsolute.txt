@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_07. Inventory Matcher\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_07. Inventory Matcher.pdb

@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Loops\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\9999\source\repos\Loops\Histogram\bin\Debug\Histogram.exe
+C:\Users\9999\source\repos\Loops\Histogram\bin\Debug\Histogram.pdb
+C:\Users\9999\source\repos\Loops\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Loops\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Loops\Histogram\obj\Debug\Histogram.exe
+C:\Users\9999\source\repos\Loops\Histogram\obj\Debug\Histogram.pdb

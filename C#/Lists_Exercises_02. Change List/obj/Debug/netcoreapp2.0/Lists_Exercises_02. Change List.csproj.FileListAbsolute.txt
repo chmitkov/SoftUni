@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\bin\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\bin\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\bin\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\bin\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\bin\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\obj\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\obj\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\obj\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\obj\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\obj\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_02. Change List\obj\Debug\netcoreapp2.0\Lists_Exercises_02. Change List.pdb

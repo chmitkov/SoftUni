@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\bin\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\bin\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\bin\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\bin\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\bin\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\obj\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\obj\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\obj\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\obj\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\obj\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_02 SoftUni Karaoke\obj\Debug\netcoreapp2.0\Exam_Preparation_1_02 SoftUni Karaoke.pdb

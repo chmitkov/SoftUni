@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Loops\LOgistic\bin\Debug\LOgistic.exe.config
+C:\Users\9999\source\repos\Loops\LOgistic\bin\Debug\LOgistic.exe
+C:\Users\9999\source\repos\Loops\LOgistic\bin\Debug\LOgistic.pdb
+C:\Users\9999\source\repos\Loops\LOgistic\obj\Debug\LOgistic.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Loops\LOgistic\obj\Debug\LOgistic.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Loops\LOgistic\obj\Debug\LOgistic.exe
+C:\Users\9999\source\repos\Loops\LOgistic\obj\Debug\LOgistic.pdb

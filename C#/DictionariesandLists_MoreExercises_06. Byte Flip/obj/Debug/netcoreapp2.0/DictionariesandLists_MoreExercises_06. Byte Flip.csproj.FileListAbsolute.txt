@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_06. Byte Flip\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_06. Byte Flip.pdb

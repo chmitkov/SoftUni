@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Loops\BackToTheFuture\bin\Debug\BackToTheFuture.exe.config
+C:\Users\9999\source\repos\Loops\BackToTheFuture\bin\Debug\BackToTheFuture.exe
+C:\Users\9999\source\repos\Loops\BackToTheFuture\bin\Debug\BackToTheFuture.pdb
+C:\Users\9999\source\repos\Loops\BackToTheFuture\obj\Debug\BackToTheFuture.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Loops\BackToTheFuture\obj\Debug\BackToTheFuture.exe
+C:\Users\9999\source\repos\Loops\BackToTheFuture\obj\Debug\BackToTheFuture.pdb

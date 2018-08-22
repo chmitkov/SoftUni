@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\bin\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\bin\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\bin\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\bin\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\bin\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\obj\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\obj\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\obj\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\obj\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_09. Longer Line\obj\Debug\netcoreapp2.0\Methods___Exercises_09. Longer Line.pdb

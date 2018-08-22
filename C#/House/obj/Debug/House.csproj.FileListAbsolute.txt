@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Drawing on the Console\House\bin\Debug\House.exe.config
+C:\Users\9999\source\repos\Drawing on the Console\House\bin\Debug\House.exe
+C:\Users\9999\source\repos\Drawing on the Console\House\bin\Debug\House.pdb
+C:\Users\9999\source\repos\Drawing on the Console\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Drawing on the Console\House\obj\Debug\House.exe
+C:\Users\9999\source\repos\Drawing on the Console\House\obj\Debug\House.pdb
+C:\Users\9999\source\repos\Drawing on the Console\House\obj\Debug\House.csprojResolveAssemblyReference.cache

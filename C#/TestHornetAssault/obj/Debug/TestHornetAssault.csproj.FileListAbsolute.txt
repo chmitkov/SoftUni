@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestHornetAssault\bin\Debug\TestHornetAssault.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestHornetAssault\bin\Debug\TestHornetAssault.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestHornetAssault\bin\Debug\TestHornetAssault.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestHornetAssault\obj\Debug\TestHornetAssault.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestHornetAssault\obj\Debug\TestHornetAssault.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestHornetAssault\obj\Debug\TestHornetAssault.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestHornetAssault\obj\Debug\TestHornetAssault.pdb

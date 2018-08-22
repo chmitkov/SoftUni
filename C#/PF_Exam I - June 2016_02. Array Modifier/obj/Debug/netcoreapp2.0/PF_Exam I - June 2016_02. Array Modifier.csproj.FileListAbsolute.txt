@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\bin\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\bin\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\bin\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\bin\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\bin\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\obj\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\obj\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\obj\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\obj\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\obj\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam I - June 2016_02. Array Modifier\obj\Debug\netcoreapp2.0\PF_Exam I - June 2016_02. Array Modifier.pdb

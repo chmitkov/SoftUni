@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Lab_05. Short Words Sorted.pdb

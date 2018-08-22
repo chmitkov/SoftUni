@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\bin\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\bin\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\bin\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\bin\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\bin\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\obj\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\obj\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\obj\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\obj\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\obj\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_17.Be Positive\obj\Debug\netcoreapp2.0\Methods___Exercises_17.Be Positive.pdb

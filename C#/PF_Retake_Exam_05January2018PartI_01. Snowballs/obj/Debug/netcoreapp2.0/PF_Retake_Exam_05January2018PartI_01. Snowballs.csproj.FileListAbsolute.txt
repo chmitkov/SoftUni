@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\bin\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_05January2018PartI_01. Snowballs\obj\Debug\netcoreapp2.0\PF_Retake_Exam_05January2018PartI_01. Snowballs.pdb

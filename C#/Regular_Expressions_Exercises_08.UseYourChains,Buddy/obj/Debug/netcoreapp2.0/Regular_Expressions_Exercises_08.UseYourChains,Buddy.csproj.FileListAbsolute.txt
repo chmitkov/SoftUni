@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_08.UseYourChains,Buddy\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_08.UseYourChains,Buddy.pdb

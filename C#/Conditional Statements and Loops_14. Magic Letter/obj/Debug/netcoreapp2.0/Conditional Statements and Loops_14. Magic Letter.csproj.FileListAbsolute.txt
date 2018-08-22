@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_14. Magic Letter\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_14. Magic Letter.pdb

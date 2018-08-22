@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Hornet_01HornetWings\bin\Debug\Exam_Hornet_01HornetWings.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Hornet_01HornetWings\bin\Debug\Exam_Hornet_01HornetWings.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Hornet_01HornetWings\bin\Debug\Exam_Hornet_01HornetWings.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Hornet_01HornetWings\obj\Debug\Exam_Hornet_01HornetWings.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Hornet_01HornetWings\obj\Debug\Exam_Hornet_01HornetWings.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Hornet_01HornetWings\obj\Debug\Exam_Hornet_01HornetWings.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Hornet_01HornetWings\obj\Debug\Exam_Hornet_01HornetWings.pdb

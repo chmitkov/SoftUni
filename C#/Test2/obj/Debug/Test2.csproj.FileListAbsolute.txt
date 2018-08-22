@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Arrays\Test2\bin\Debug\Test2.exe.config
+C:\Users\9999\source\repos\Arrays\Test2\bin\Debug\Test2.exe
+C:\Users\9999\source\repos\Arrays\Test2\bin\Debug\Test2.pdb
+C:\Users\9999\source\repos\Arrays\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Arrays\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\Test2\obj\Debug\Test2.exe
+C:\Users\9999\source\repos\Arrays\Test2\obj\Debug\Test2.pdb

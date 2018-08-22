@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ListTest\bin\Debug\ListTest.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ListTest\bin\Debug\ListTest.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ListTest\bin\Debug\ListTest.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ListTest\obj\Debug\ListTest.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ListTest\obj\Debug\ListTest.pdb

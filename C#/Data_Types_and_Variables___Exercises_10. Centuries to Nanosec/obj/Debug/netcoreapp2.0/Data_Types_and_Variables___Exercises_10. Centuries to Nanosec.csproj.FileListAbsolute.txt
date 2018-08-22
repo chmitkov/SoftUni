@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Exercises_10. Centuries to Nanosec.pdb

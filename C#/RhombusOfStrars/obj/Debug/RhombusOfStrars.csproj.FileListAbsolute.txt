@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Drawing on the Console\RhombusOfStrars\bin\Debug\RhombusOfStrars.exe.config
+C:\Users\9999\source\repos\Drawing on the Console\RhombusOfStrars\bin\Debug\RhombusOfStrars.exe
+C:\Users\9999\source\repos\Drawing on the Console\RhombusOfStrars\bin\Debug\RhombusOfStrars.pdb
+C:\Users\9999\source\repos\Drawing on the Console\RhombusOfStrars\obj\Debug\RhombusOfStrars.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Drawing on the Console\RhombusOfStrars\obj\Debug\RhombusOfStrars.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Drawing on the Console\RhombusOfStrars\obj\Debug\RhombusOfStrars.exe
+C:\Users\9999\source\repos\Drawing on the Console\RhombusOfStrars\obj\Debug\RhombusOfStrars.pdb

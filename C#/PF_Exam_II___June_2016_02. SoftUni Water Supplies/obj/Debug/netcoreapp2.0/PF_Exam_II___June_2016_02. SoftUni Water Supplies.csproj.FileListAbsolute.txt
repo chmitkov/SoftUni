@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\bin\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\bin\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\bin\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\bin\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\bin\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\obj\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\obj\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\obj\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\obj\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\obj\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_II___June_2016_02. SoftUni Water Supplies\obj\Debug\netcoreapp2.0\PF_Exam_II___June_2016_02. SoftUni Water Supplies.pdb

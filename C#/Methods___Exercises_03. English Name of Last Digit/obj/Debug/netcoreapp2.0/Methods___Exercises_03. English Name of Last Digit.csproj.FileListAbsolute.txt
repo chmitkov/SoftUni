@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\bin\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\bin\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\bin\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\bin\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\bin\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\obj\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\obj\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\obj\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\obj\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\obj\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_03. English Name of Last Digit\obj\Debug\netcoreapp2.0\Methods___Exercises_03. English Name of Last Digit.csprojAssemblyReference.cache

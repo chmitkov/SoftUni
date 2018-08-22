@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_02. Pokemon Don't Go.pdb

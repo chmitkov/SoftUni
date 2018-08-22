@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\bin\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\bin\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\bin\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\bin\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\bin\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\obj\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\obj\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\obj\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\obj\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_13. Factorial\obj\Debug\netcoreapp2.0\Methods___Exercises_13. Factorial.pdb

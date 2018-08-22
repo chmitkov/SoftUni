@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Arrays\MaxIncreseRow\bin\Debug\MaxIncreseRow.exe.config
+C:\Users\9999\source\repos\Arrays\MaxIncreseRow\bin\Debug\MaxIncreseRow.exe
+C:\Users\9999\source\repos\Arrays\MaxIncreseRow\bin\Debug\MaxIncreseRow.pdb
+C:\Users\9999\source\repos\Arrays\MaxIncreseRow\obj\Debug\MaxIncreseRow.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\MaxIncreseRow\obj\Debug\MaxIncreseRow.exe
+C:\Users\9999\source\repos\Arrays\MaxIncreseRow\obj\Debug\MaxIncreseRow.pdb

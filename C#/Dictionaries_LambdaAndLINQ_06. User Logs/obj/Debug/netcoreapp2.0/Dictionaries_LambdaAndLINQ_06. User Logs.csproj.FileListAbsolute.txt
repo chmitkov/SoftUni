@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_06. User Logs\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_06. User Logs.pdb

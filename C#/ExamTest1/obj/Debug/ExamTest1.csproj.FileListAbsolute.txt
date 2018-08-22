@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest1\bin\Debug\ExamTest1.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest1\bin\Debug\ExamTest1.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest1\bin\Debug\ExamTest1.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest1\obj\Debug\ExamTest1.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest1\obj\Debug\ExamTest1.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest1\obj\Debug\ExamTest1.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest1\obj\Debug\ExamTest1.pdb

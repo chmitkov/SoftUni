@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\9999\source\repos\ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\9999\source\repos\ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\9999\source\repos\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\9999\source\repos\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.pdb

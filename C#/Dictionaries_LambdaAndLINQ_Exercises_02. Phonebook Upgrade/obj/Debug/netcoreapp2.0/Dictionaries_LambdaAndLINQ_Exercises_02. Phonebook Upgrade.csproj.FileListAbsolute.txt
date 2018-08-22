@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_Exercises_02. Phonebook Upgrade.pdb

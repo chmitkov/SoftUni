@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\bin\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\bin\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\bin\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\bin\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\bin\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\obj\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\obj\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\obj\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\obj\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\obj\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017_PartII_03. Anonymous Vox\obj\Debug\netcoreapp2.0\PF_Exam_05November2017_PartII_03. Anonymous Vox.pdb

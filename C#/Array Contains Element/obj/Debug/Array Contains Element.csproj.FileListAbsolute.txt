@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Array Contains Element\bin\Debug\Array Contains Element.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Array Contains Element\bin\Debug\Array Contains Element.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Array Contains Element\bin\Debug\Array Contains Element.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Array Contains Element\obj\Debug\Array Contains Element.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Array Contains Element\obj\Debug\Array Contains Element.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Array Contains Element\obj\Debug\Array Contains Element.pdb

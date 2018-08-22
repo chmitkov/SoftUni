@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Arrays\SumEqualsToNumInRow\bin\Debug\SumEqualsToNumInRow.exe.config
+C:\Users\9999\source\repos\Arrays\SumEqualsToNumInRow\bin\Debug\SumEqualsToNumInRow.exe
+C:\Users\9999\source\repos\Arrays\SumEqualsToNumInRow\bin\Debug\SumEqualsToNumInRow.pdb
+C:\Users\9999\source\repos\Arrays\SumEqualsToNumInRow\obj\Debug\SumEqualsToNumInRow.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Arrays\SumEqualsToNumInRow\obj\Debug\SumEqualsToNumInRow.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\SumEqualsToNumInRow\obj\Debug\SumEqualsToNumInRow.exe
+C:\Users\9999\source\repos\Arrays\SumEqualsToNumInRow\obj\Debug\SumEqualsToNumInRow.pdb

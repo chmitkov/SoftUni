@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\bin\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\bin\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\bin\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\bin\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\bin\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\obj\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\obj\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\obj\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\obj\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\obj\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_18.Sequence of Commands3\obj\Debug\netcoreapp2.0\Methods___Exercises_18.Sequence of Commands3.pdb

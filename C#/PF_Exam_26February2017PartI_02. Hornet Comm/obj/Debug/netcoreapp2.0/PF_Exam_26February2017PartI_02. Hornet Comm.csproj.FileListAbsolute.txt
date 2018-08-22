@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_02. Hornet Comm\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_02. Hornet Comm.pdb

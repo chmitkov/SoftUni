@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Lab_01. Count Real Numbers.pdb

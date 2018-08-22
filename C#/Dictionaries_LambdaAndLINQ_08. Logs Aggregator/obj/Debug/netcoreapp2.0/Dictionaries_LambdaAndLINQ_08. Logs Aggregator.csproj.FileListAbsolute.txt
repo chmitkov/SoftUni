@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_08. Logs Aggregator\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_08. Logs Aggregator.csprojAssemblyReference.cache

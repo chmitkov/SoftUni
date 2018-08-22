@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\obj\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\obj\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\obj\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\obj\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\bin\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\bin\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\bin\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\bin\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\bin\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\obj\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_04. Photo Gallery\obj\Debug\netcoreapp2.0\Basics - More Exercises_04. Photo Gallery.pdb

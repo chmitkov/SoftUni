@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_07. Population Counter\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_07. Population Counter.pdb

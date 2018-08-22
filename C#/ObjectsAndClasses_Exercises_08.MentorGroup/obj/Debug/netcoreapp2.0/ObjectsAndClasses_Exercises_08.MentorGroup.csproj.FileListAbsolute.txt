@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_08.MentorGroup\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_08.MentorGroup.pdb

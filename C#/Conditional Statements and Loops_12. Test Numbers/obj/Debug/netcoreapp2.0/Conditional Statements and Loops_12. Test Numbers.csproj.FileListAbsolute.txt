@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_12. Test Numbers\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_12. Test Numbers.csprojAssemblyReference.cache

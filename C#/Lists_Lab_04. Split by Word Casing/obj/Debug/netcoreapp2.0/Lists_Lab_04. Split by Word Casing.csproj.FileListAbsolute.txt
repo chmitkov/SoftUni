@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\bin\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\bin\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\bin\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\bin\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\bin\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\obj\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\obj\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\obj\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\obj\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\obj\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_04. Split by Word Casing\obj\Debug\netcoreapp2.0\Lists_Lab_04. Split by Word Casing.pdb

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_07.PlayCatch\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_07.PlayCatch.pdb

@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Loops\SmartLilly\bin\Debug\SmartLilly.exe.config
+C:\Users\9999\source\repos\Loops\SmartLilly\bin\Debug\SmartLilly.exe
+C:\Users\9999\source\repos\Loops\SmartLilly\bin\Debug\SmartLilly.pdb
+C:\Users\9999\source\repos\Loops\SmartLilly\obj\Debug\SmartLilly.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Loops\SmartLilly\obj\Debug\SmartLilly.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Loops\SmartLilly\obj\Debug\SmartLilly.exe
+C:\Users\9999\source\repos\Loops\SmartLilly\obj\Debug\SmartLilly.pdb

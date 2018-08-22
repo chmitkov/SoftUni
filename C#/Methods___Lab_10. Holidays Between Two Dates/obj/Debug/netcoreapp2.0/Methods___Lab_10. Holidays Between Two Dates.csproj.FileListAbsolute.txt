@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Methods___Lab_10. Holidays Between Two Dates.pdb

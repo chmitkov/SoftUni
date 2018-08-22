@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\bin\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\bin\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\bin\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\bin\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\bin\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\obj\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\obj\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\obj\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\obj\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\obj\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular Expressions_Lab_01. Match Full Name\obj\Debug\netcoreapp2.0\Regular Expressions_Lab_01. Match Full Name.pdb

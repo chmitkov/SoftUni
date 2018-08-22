@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_03. Tseam Account\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_03. Tseam Account.pdb

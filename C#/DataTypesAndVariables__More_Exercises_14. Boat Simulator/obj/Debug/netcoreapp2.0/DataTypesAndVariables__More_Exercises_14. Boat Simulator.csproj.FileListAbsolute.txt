@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_14. Boat Simulator\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_14. Boat Simulator.pdb

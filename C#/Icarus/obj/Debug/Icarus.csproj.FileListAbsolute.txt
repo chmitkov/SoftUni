@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Icarus\bin\Debug\Icarus.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Icarus\bin\Debug\Icarus.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Icarus\bin\Debug\Icarus.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Icarus\obj\Debug\Icarus.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Icarus\obj\Debug\Icarus.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Icarus\obj\Debug\Icarus.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Icarus\obj\Debug\Icarus.pdb

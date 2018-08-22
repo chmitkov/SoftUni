@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_12. Beer Kegs\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_12. Beer Kegs.pdb

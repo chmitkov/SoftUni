@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_15. Balanced Brackets\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_15. Balanced Brackets.pdb

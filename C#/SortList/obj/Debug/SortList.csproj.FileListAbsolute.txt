@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Arrays\SortList\bin\Debug\SortList.exe.config
+C:\Users\9999\source\repos\Arrays\SortList\bin\Debug\SortList.exe
+C:\Users\9999\source\repos\Arrays\SortList\bin\Debug\SortList.pdb
+C:\Users\9999\source\repos\Arrays\SortList\obj\Debug\SortList.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\SortList\obj\Debug\SortList.exe
+C:\Users\9999\source\repos\Arrays\SortList\obj\Debug\SortList.pdb

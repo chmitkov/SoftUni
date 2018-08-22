@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_05. Hands of Cards\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_05. Hands of Cards.csprojAssemblyReference.cache

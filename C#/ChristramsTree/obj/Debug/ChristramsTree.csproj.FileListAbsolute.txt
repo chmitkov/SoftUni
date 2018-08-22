@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Drawing on the Console\ChristramsTree\bin\Debug\ChristramsTree.exe.config
+C:\Users\9999\source\repos\Drawing on the Console\ChristramsTree\bin\Debug\ChristramsTree.exe
+C:\Users\9999\source\repos\Drawing on the Console\ChristramsTree\bin\Debug\ChristramsTree.pdb
+C:\Users\9999\source\repos\Drawing on the Console\ChristramsTree\obj\Debug\ChristramsTree.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Drawing on the Console\ChristramsTree\obj\Debug\ChristramsTree.exe
+C:\Users\9999\source\repos\Drawing on the Console\ChristramsTree\obj\Debug\ChristramsTree.pdb

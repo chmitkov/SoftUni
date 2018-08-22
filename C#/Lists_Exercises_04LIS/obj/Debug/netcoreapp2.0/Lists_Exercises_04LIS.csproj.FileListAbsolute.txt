@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\bin\Debug\netcoreapp2.0\Lists_Exercises_04LIS.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\bin\Debug\netcoreapp2.0\Lists_Exercises_04LIS.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\bin\Debug\netcoreapp2.0\Lists_Exercises_04LIS.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\bin\Debug\netcoreapp2.0\Lists_Exercises_04LIS.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\bin\Debug\netcoreapp2.0\Lists_Exercises_04LIS.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\obj\Debug\netcoreapp2.0\Lists_Exercises_04LIS.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\obj\Debug\netcoreapp2.0\Lists_Exercises_04LIS.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\obj\Debug\netcoreapp2.0\Lists_Exercises_04LIS.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\obj\Debug\netcoreapp2.0\Lists_Exercises_04LIS.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04LIS\obj\Debug\netcoreapp2.0\Lists_Exercises_04LIS.pdb

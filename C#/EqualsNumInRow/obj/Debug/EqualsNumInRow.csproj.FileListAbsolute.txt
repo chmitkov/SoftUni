@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Arrays\EqualsNumInRow\bin\Debug\EqualsNumInRow.exe.config
+C:\Users\9999\source\repos\Arrays\EqualsNumInRow\bin\Debug\EqualsNumInRow.exe
+C:\Users\9999\source\repos\Arrays\EqualsNumInRow\bin\Debug\EqualsNumInRow.pdb
+C:\Users\9999\source\repos\Arrays\EqualsNumInRow\obj\Debug\EqualsNumInRow.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Arrays\EqualsNumInRow\obj\Debug\EqualsNumInRow.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\EqualsNumInRow\obj\Debug\EqualsNumInRow.exe
+C:\Users\9999\source\repos\Arrays\EqualsNumInRow\obj\Debug\EqualsNumInRow.pdb

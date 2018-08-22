@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\bin\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Objects_Classes_MoreExercises_05.WriteToFile\obj\Debug\netcoreapp2.0\Objects_Classes_MoreExercises_05.WriteToFile.pdb

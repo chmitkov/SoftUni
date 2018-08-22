@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\SortNumbers\obj\Debug\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\SortNumbers\obj\Debug\SortNumbers.pdb

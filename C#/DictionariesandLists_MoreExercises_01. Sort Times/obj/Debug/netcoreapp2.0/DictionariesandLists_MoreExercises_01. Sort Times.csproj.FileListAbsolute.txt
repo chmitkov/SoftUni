@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_01. Sort Times\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_01. Sort Times.pdb

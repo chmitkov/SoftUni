@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test7\bin\Debug\Test7.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test7\bin\Debug\Test7.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test7\bin\Debug\Test7.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test7\obj\Debug\Test7.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test7\obj\Debug\Test7.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test7\obj\Debug\Test7.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test7\obj\Debug\Test7.pdb

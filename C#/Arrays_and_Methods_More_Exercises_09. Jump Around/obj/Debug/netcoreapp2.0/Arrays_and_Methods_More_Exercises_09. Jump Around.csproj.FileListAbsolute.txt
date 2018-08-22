@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_09. Jump Around\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_09. Jump Around.pdb

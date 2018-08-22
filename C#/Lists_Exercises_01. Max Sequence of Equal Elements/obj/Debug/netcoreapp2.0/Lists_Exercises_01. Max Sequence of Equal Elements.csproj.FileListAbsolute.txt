@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_01. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\Lists_Exercises_01. Max Sequence of Equal Elements.csprojAssemblyReference.cache

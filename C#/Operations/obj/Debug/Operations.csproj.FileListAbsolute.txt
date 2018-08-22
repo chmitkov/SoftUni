@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\Operations\bin\Debug\Operations.exe.config
+C:\Users\9999\source\repos\ComplexConditions\Operations\bin\Debug\Operations.exe
+C:\Users\9999\source\repos\ComplexConditions\Operations\bin\Debug\Operations.pdb
+C:\Users\9999\source\repos\ComplexConditions\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\Operations\obj\Debug\Operations.exe
+C:\Users\9999\source\repos\ComplexConditions\Operations\obj\Debug\Operations.pdb

@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P02_HornetComm\obj\Debug\P02_HornetComm.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P02_HornetComm\obj\Debug\P02_HornetComm.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P02_HornetComm\bin\Debug\P02_HornetComm.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P02_HornetComm\bin\Debug\P02_HornetComm.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P02_HornetComm\bin\Debug\P02_HornetComm.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P02_HornetComm\obj\Debug\P02_HornetComm.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P02_HornetComm\obj\Debug\P02_HornetComm.pdb

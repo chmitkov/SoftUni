@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\obj\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\obj\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\obj\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\bin\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\bin\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\bin\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\bin\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\bin\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\obj\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_11. Geometry Calculator\obj\Debug\netcoreapp2.0\Methods___Exercises_11. Geometry Calculator.pdb

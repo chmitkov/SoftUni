@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_06. Catch the Thief\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_06. Catch the Thief.pdb

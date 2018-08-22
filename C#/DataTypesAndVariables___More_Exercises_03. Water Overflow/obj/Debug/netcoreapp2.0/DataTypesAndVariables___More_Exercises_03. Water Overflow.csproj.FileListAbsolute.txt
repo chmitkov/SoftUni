@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_03. Water Overflow\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_03. Water Overflow.csprojAssemblyReference.cache

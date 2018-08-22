@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ComplexConditions\AnimalType\bin\Debug\AnimalType.exe.config
+C:\Users\9999\source\repos\ComplexConditions\AnimalType\bin\Debug\AnimalType.exe
+C:\Users\9999\source\repos\ComplexConditions\AnimalType\bin\Debug\AnimalType.pdb
+C:\Users\9999\source\repos\ComplexConditions\AnimalType\obj\Debug\AnimalType.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\AnimalType\obj\Debug\AnimalType.exe
+C:\Users\9999\source\repos\ComplexConditions\AnimalType\obj\Debug\AnimalType.pdb

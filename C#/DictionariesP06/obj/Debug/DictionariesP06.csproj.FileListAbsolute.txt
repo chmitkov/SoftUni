@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesP06\bin\Debug\DictionariesP06.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesP06\bin\Debug\DictionariesP06.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesP06\bin\Debug\DictionariesP06.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesP06\obj\Debug\DictionariesP06.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesP06\obj\Debug\DictionariesP06.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesP06\obj\Debug\DictionariesP06.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesP06\obj\Debug\DictionariesP06.pdb

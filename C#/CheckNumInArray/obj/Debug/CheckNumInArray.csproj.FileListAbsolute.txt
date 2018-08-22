@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Arrays\CheckNumInArray\bin\Debug\CheckNumInArray.exe.config
+C:\Users\9999\source\repos\Arrays\CheckNumInArray\bin\Debug\CheckNumInArray.exe
+C:\Users\9999\source\repos\Arrays\CheckNumInArray\bin\Debug\CheckNumInArray.pdb
+C:\Users\9999\source\repos\Arrays\CheckNumInArray\obj\Debug\CheckNumInArray.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Arrays\CheckNumInArray\obj\Debug\CheckNumInArray.exe
+C:\Users\9999\source\repos\Arrays\CheckNumInArray\obj\Debug\CheckNumInArray.pdb

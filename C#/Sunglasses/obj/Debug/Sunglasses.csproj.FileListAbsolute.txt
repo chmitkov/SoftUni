@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Drawing on the Console\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\9999\source\repos\Drawing on the Console\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\9999\source\repos\Drawing on the Console\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\9999\source\repos\Drawing on the Console\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Drawing on the Console\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\9999\source\repos\Drawing on the Console\Sunglasses\obj\Debug\Sunglasses.pdb

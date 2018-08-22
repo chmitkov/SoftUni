@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\C_\\.nuget\\packages\\": {},
+    "C:\\Users\\9999\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\C_\\source\\repos\\ProgramingFundamentalsExtended\\Arrays_Exercises_06. Max Sequence of Equal Elements\\Arrays_Exercises_06. Max Sequence of Equal Elements.csproj",
+      "projectUniqueName": "C:\\Users\\9999\\source\\repos\\ProgramingFundamentalsExams\\Arrays_Exercises_06. Max Sequence of Equal Elements\\Arrays_Exercises_06. Max Sequence of Equal Elements.csproj",
       "projectName": "Arrays_Exercises_06. Max Sequence of Equal Elements",
-      "projectPath": "C:\\Users\\C_\\source\\repos\\ProgramingFundamentalsExtended\\Arrays_Exercises_06. Max Sequence of Equal Elements\\Arrays_Exercises_06. Max Sequence of Equal Elements.csproj",
-      "packagesPath": "C:\\Users\\C_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\C_\\source\\repos\\ProgramingFundamentalsExtended\\Arrays_Exercises_06. Max Sequence of Equal Elements\\obj\\",
+      "projectPath": "C:\\Users\\9999\\source\\repos\\ProgramingFundamentalsExams\\Arrays_Exercises_06. Max Sequence of Equal Elements\\Arrays_Exercises_06. Max Sequence of Equal Elements.csproj",
+      "packagesPath": "C:\\Users\\9999\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\9999\\source\\repos\\ProgramingFundamentalsExams\\Arrays_Exercises_06. Max Sequence of Equal Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\C_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\9999\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

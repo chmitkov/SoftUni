@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part I_01. Rage Expenses\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part I_01. Rage Expenses.pdb

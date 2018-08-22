@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_06. Replace a Tag\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_06. Replace a Tag.csprojAssemblyReference.cache

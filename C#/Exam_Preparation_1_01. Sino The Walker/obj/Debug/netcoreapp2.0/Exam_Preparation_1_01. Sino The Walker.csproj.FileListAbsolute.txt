@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\bin\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\bin\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\bin\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\bin\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\bin\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\obj\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\obj\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\obj\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\obj\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\obj\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Preparation_1_01. Sino The Walker\obj\Debug\netcoreapp2.0\Exam_Preparation_1_01. Sino The Walker.pdb

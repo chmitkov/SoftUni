@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\bin\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_26February2017PartI_03. Hornet Assault\obj\Debug\netcoreapp2.0\PF_Exam_26February2017PartI_03. Hornet Assault.pdb

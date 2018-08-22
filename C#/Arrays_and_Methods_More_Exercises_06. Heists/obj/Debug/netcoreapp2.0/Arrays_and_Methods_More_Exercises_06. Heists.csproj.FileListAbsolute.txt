@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_06. Heists\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_06. Heists.pdb

@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Drawing on the Console\SquareFrame\bin\Debug\SquareFrame.exe.config
+C:\Users\9999\source\repos\Drawing on the Console\SquareFrame\bin\Debug\SquareFrame.exe
+C:\Users\9999\source\repos\Drawing on the Console\SquareFrame\bin\Debug\SquareFrame.pdb
+C:\Users\9999\source\repos\Drawing on the Console\SquareFrame\obj\Debug\SquareFrame.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Drawing on the Console\SquareFrame\obj\Debug\SquareFrame.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Drawing on the Console\SquareFrame\obj\Debug\SquareFrame.exe
+C:\Users\9999\source\repos\Drawing on the Console\SquareFrame\obj\Debug\SquareFrame.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\bin\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\bin\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\bin\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\bin\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\bin\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\obj\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\obj\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\obj\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\obj\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam II - June 2016_01. SoftUni Airline\obj\Debug\netcoreapp2.0\PF_Exam II - June 2016_01. SoftUni Airline.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_05. Weather Forecast\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_05. Weather Forecast.pdb

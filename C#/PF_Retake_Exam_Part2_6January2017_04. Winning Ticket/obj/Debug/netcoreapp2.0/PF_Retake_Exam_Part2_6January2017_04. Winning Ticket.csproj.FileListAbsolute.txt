@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\bin\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\bin\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\bin\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\bin\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\bin\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\obj\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\obj\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\obj\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\obj\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\obj\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket\obj\Debug\netcoreapp2.0\PF_Retake_Exam_Part2_6January2017_04. Winning Ticket.pdb

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\bin\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\bin\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\bin\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\bin\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\bin\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\obj\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\obj\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\obj\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\obj\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\obj\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite\obj\Debug\netcoreapp2.0\PF_Retake_Exam___05_January_2018_Part_I_04. Snowwhite.pdb

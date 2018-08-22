@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\FrameWorkTests\bin\Debug\FrameWorkTests.exe.config
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\FrameWorkTests\bin\Debug\FrameWorkTests.exe
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\FrameWorkTests\bin\Debug\FrameWorkTests.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\FrameWorkTests\obj\Debug\FrameWorkTests.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\FrameWorkTests\obj\Debug\FrameWorkTests.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\FrameWorkTests\obj\Debug\FrameWorkTests.exe
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\FrameWorkTests\obj\Debug\FrameWorkTests.pdb

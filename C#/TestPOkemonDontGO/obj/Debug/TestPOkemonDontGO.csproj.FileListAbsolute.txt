@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestPOkemonDontGO\bin\Debug\TestPOkemonDontGO.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestPOkemonDontGO\bin\Debug\TestPOkemonDontGO.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestPOkemonDontGO\bin\Debug\TestPOkemonDontGO.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestPOkemonDontGO\obj\Debug\TestPOkemonDontGO.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestPOkemonDontGO\obj\Debug\TestPOkemonDontGO.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestPOkemonDontGO\obj\Debug\TestPOkemonDontGO.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\TestPOkemonDontGO\obj\Debug\TestPOkemonDontGO.pdb

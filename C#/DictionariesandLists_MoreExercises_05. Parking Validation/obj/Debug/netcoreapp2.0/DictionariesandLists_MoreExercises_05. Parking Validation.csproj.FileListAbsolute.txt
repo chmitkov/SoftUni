@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_05. Parking Validation\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_05. Parking Validation.pdb

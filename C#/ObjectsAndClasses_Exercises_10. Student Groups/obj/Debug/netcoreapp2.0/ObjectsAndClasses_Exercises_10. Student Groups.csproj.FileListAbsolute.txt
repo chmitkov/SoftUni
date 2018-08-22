@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\bin\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ObjectsAndClasses_Exercises_10. Student Groups\obj\Debug\netcoreapp2.0\ObjectsAndClasses_Exercises_10. Student Groups.pdb

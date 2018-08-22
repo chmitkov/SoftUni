@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\bin\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Exercises_02. Extract SentencesByKeyword\obj\Debug\netcoreapp2.0\Regular_Expressions_Exercises_02. Extract SentencesByKeyword.pdb

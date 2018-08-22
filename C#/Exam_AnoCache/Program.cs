@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Exam_AnoCache
 {
@@ -11,77 +9,64 @@ namespace Exam_AnoCache
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            var allSet = new Dictionary<string, Dictionary<string, List<int>>>();
-            var cacheSet = new Dictionary<string, Dictionary<string, List<int>>>();
-
+            var database = new Dictionary<string, Dictionary<string, long>>();
+            var cache = new Dictionary<string, Dictionary<string, long>>();
             while (input != "thetinggoesskrra")
             {
-                string[] command = input
-                .Split(new char[] { ' ', '-', '>', '|' }, StringSplitOptions.RemoveEmptyEntries)
-                .ToArray();
-
-                if (command.Length == 1)
+                var info = input.Split(new char[] { ' ', '-', '>', '|' }
+                 , StringSplitOptions.RemoveEmptyEntries)
+                 .ToArray();
+                if (info.Length == 1)
                 {
-                    var dataSet = command[0];
-                    if (!allSet.ContainsKey(dataSet))
+                    var dataSet = info[0];
+                    if (!cache.ContainsKey(dataSet))
                     {
-                        allSet[dataSet] = new Dictionary<string, List<int>>();
+                        database[dataSet] = new Dictionary<string, long>();
                     }
-                    if (cacheSet.ContainsKey(dataSet))
+                    else
                     {
-                        allSet.Add(dataSet, cacheSet[dataSet]);
+                        database.Add(dataSet, cache[dataSet]);
+                        cache.Remove(dataSet);
                     }
                 }
                 else
                 {
-                    var dataSet = command[2];
-                    var dataKey = command[0];
-                    var dataSize = int.Parse(command[1]);
-                    if (allSet.ContainsKey(dataSet))
+                    var key = info[0];
+                    var set = info[2];
+                    var size = long.Parse(info[1]);
+                    if (!database.ContainsKey(set))
                     {
-                        if (!allSet[dataSet].ContainsKey(dataKey))
+                        if (!cache.ContainsKey(set))
                         {
-                            allSet[dataSet][dataKey] = new List<int>();
+                            cache[set] = new Dictionary<string, long>();
                         }
-                        allSet[dataSet][dataKey].Add(dataSize);
+                        if (!cache[set].ContainsKey(key))
+                        {
+                            cache[set][key] = 0;
+                        }
+                        cache[set][key] += size;
                     }
                     else
                     {
-                        cacheSet[dataSet][dataKey].Add(dataSize);
+                        if (!database[set].ContainsKey(key))
+                        {
+                            database[set][key] = 0;
+                        }
+                        database[set][key] += size;
                     }
                 }
 
                 input = Console.ReadLine();
             }
-            //if (allSet.Count > 0)
-            //{
-            //    var newSet = allSet.OrderByDescending(x => x.Value.Values).Take(1);
-            //    foreach (var pair in newSet)
-            //    {
-            //        Console.WriteLine($"Data Set: {pair.Key}, Total Size: {pair.Value.Values.Sum() }");
-            //        foreach (var pair1 in pair.Value)
-            //        {
-            //            Console.WriteLine($"$.{pair1.Key}");
-            //        }
-            //    }
-            //    //Data Set: Users, Total Size: 26233
-            //    //$.Students
-            //    //$.Workers
-            Console.WriteLine(allSet.Count);
-            foreach (var pair in allSet)
+            foreach (var pair in database.OrderByDescending(x => x.Value.Values.Sum())
+                .Take(1))
             {
-                Console.WriteLine(pair.Key);
-                foreach(var pair1 in pair.Value)
+                Console.WriteLine($"Data set: {pair.Key}, Total size: {pair.Value.Values.Sum()}");
+                foreach (var pair1 in pair.Value)
                 {
-                    Console.WriteLine(pair1.Key);
-                    Console.WriteLine(string.Join(" ",pair1.Value));
-
+                    Console.WriteLine($"$.{pair1.Key}");
                 }
-                //Console.WriteLine(pair.Value.Keys);
-                //Console.WriteLine(string.Join(" ", pair.Value.Values));
             }
-            foreach (var pair in allSet.OrderByDescending(x => x.Value.Values).Take(1)) { }
         }
     }
 }
-

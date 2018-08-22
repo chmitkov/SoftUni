@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_10. Сръбско Unleashed.pdb

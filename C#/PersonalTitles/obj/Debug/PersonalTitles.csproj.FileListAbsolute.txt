@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+C:\Users\9999\source\repos\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.exe
+C:\Users\9999\source\repos\ComplexConditions\PersonalTitles\bin\Debug\PersonalTitles.pdb
+C:\Users\9999\source\repos\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.exe
+C:\Users\9999\source\repos\ComplexConditions\PersonalTitles\obj\Debug\PersonalTitles.pdb

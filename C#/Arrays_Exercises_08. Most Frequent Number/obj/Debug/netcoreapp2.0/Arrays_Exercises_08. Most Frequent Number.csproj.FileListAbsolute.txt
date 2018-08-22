@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\bin\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\bin\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\bin\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\bin\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\bin\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\obj\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\obj\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\obj\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\obj\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_08. Most Frequent Number\obj\Debug\netcoreapp2.0\Arrays_Exercises_08. Most Frequent Number.pdb

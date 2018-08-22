@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\bin\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\bin\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\bin\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\bin\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\bin\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\obj\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\obj\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\obj\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\obj\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_IV_01. Sweet Dessert\obj\Debug\netcoreapp2.0\Exam_Preparation_IV_01. Sweet Dessert.pdb

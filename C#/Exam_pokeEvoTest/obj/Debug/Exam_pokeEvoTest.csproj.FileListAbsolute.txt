@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_pokeEvoTest\bin\Debug\Exam_pokeEvoTest.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_pokeEvoTest\bin\Debug\Exam_pokeEvoTest.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_pokeEvoTest\bin\Debug\Exam_pokeEvoTest.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_pokeEvoTest\obj\Debug\Exam_pokeEvoTest.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_pokeEvoTest\obj\Debug\Exam_pokeEvoTest.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_pokeEvoTest\obj\Debug\Exam_pokeEvoTest.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_pokeEvoTest\obj\Debug\Exam_pokeEvoTest.pdb

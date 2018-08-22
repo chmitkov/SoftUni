@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\A_TH\bin\Debug\A_TH.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\A_TH\bin\Debug\A_TH.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\A_TH\bin\Debug\A_TH.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\A_TH\obj\Debug\A_TH.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\A_TH\obj\Debug\A_TH.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\A_TH\obj\Debug\A_TH.pdb

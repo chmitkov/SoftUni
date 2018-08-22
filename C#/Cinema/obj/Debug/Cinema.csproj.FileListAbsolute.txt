@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ComplexConditions\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\9999\source\repos\ComplexConditions\Cinema\bin\Debug\Cinema.exe
+C:\Users\9999\source\repos\ComplexConditions\Cinema\bin\Debug\Cinema.pdb
+C:\Users\9999\source\repos\ComplexConditions\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\Cinema\obj\Debug\Cinema.exe
+C:\Users\9999\source\repos\ComplexConditions\Cinema\obj\Debug\Cinema.pdb

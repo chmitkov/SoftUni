@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\bin\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\bin\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\bin\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\bin\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\bin\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\obj\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\obj\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\obj\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\obj\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_02. Append Lists\obj\Debug\netcoreapp2.0\Lists_Lab_02. Append Lists.pdb

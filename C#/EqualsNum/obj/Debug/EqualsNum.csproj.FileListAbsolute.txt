@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\EqualsNum\bin\Debug\EqualsNum.exe.config
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\EqualsNum\bin\Debug\EqualsNum.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\EqualsNum\bin\Debug\EqualsNum.pdb
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\EqualsNum\obj\Debug\EqualsNum.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\EqualsNum\obj\Debug\EqualsNum.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\EqualsNum\obj\Debug\EqualsNum.pdb

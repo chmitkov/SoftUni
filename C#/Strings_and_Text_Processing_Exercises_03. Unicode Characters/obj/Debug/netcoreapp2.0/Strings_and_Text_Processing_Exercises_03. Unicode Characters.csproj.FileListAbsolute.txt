@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_03. Unicode Characters\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_03. Unicode Characters.pdb

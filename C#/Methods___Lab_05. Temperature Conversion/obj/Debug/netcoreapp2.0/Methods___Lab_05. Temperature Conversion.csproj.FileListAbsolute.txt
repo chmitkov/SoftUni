@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\obj\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\obj\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\obj\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\obj\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\bin\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\bin\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\bin\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\bin\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\bin\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\obj\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Lab_05. Temperature Conversion\obj\Debug\netcoreapp2.0\Methods___Lab_05. Temperature Conversion.pdb

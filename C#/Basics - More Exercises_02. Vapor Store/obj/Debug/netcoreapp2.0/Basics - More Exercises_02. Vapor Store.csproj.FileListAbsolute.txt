@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\bin\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\bin\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\bin\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\bin\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\bin\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\obj\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\obj\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\obj\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\obj\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\obj\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics - More Exercises_02. Vapor Store\obj\Debug\netcoreapp2.0\Basics - More Exercises_02. Vapor Store.pdb

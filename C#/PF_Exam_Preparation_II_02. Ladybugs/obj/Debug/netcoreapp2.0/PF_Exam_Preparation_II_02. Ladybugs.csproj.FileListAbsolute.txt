@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_02. Ladybugs\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_02. Ladybugs.pdb

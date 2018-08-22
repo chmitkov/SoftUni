@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\NumWithWordsTo100\bin\Debug\NumWithWordsTo100.exe.config
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\NumWithWordsTo100\bin\Debug\NumWithWordsTo100.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\NumWithWordsTo100\bin\Debug\NumWithWordsTo100.pdb
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\NumWithWordsTo100\obj\Debug\NumWithWordsTo100.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\NumWithWordsTo100\obj\Debug\NumWithWordsTo100.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\NumWithWordsTo100\obj\Debug\NumWithWordsTo100.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\NumWithWordsTo100\obj\Debug\NumWithWordsTo100.pdb

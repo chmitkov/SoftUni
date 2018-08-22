@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Firm\bin\Debug\Firm.exe.config
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Firm\bin\Debug\Firm.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Firm\bin\Debug\Firm.pdb
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Firm\obj\Debug\Firm.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Firm\obj\Debug\Firm.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Firm\obj\Debug\Firm.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\bin\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\bin\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\bin\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\bin\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\bin\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\obj\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\obj\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\obj\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\obj\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_03. Search for a Number\obj\Debug\netcoreapp2.0\Lists_Exercises_03. Search for a Number.pdb

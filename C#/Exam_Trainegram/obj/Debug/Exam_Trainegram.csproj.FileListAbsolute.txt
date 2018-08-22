@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainegram\bin\Debug\Exam_Trainegram.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainegram\bin\Debug\Exam_Trainegram.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainegram\bin\Debug\Exam_Trainegram.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainegram\obj\Debug\Exam_Trainegram.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainegram\obj\Debug\Exam_Trainegram.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainegram\obj\Debug\Exam_Trainegram.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainegram\obj\Debug\Exam_Trainegram.pdb

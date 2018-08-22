@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Drawing on the Console\TriangleFrom$\bin\Debug\TriangleFrom$.exe.config
+C:\Users\9999\source\repos\Drawing on the Console\TriangleFrom$\bin\Debug\TriangleFrom$.exe
+C:\Users\9999\source\repos\Drawing on the Console\TriangleFrom$\bin\Debug\TriangleFrom$.pdb
+C:\Users\9999\source\repos\Drawing on the Console\TriangleFrom$\obj\Debug\TriangleFrom$.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Drawing on the Console\TriangleFrom$\obj\Debug\TriangleFrom$.exe
+C:\Users\9999\source\repos\Drawing on the Console\TriangleFrom$\obj\Debug\TriangleFrom$.pdb

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_04. Pokemon Evolution\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_04. Pokemon Evolution.pdb

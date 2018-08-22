@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\bin\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam___09_July_2017_Part_03. Regexmon\obj\Debug\netcoreapp2.0\PF_Exam___09_July_2017_Part_03. Regexmon.pdb

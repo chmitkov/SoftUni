@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\bin\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_04. Longest Increasing Subsequence\obj\Debug\netcoreapp2.0\Lists_Exercises_04. Longest Increasing Subsequence.csprojAssemblyReference.cache

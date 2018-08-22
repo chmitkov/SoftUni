@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\bin\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Regular_Expressions_Lab_02. Match Phone Number\obj\Debug\netcoreapp2.0\Regular_Expressions_Lab_02. Match Phone Number.pdb

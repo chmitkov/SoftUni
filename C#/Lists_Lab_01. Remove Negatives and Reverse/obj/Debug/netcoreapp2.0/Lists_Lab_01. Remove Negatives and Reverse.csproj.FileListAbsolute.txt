@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Lab_01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\Lists_Lab_01. Remove Negatives and Reverse.pdb

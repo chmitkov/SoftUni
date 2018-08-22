@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\bin\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\StringsAndTextProcessing_Lab_04. Palindromes\obj\Debug\netcoreapp2.0\StringsAndTextProcessing_Lab_04. Palindromes.csprojAssemblyReference.cache

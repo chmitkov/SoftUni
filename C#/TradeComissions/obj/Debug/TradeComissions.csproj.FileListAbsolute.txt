@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.exe.config
+C:\Users\9999\source\repos\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.exe
+C:\Users\9999\source\repos\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.pdb
+C:\Users\9999\source\repos\ComplexConditions\TradeComissions\obj\Debug\TradeComissions.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\TradeComissions\obj\Debug\TradeComissions.exe
+C:\Users\9999\source\repos\ComplexConditions\TradeComissions\obj\Debug\TradeComissions.pdb

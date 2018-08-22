@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\bin\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\bin\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\bin\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\bin\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\bin\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\obj\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\obj\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\obj\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\obj\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\obj\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_SampleExam_June2016_04. Population Aggregation\obj\Debug\netcoreapp2.0\PF_SampleExam_June2016_04. Population Aggregation.pdb

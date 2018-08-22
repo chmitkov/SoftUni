@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\Drawing on the Console\SquareOfStrars\bin\Debug\SquareOfStrars.exe.config
+C:\Users\9999\source\repos\Drawing on the Console\SquareOfStrars\bin\Debug\SquareOfStrars.exe
+C:\Users\9999\source\repos\Drawing on the Console\SquareOfStrars\bin\Debug\SquareOfStrars.pdb
+C:\Users\9999\source\repos\Drawing on the Console\SquareOfStrars\obj\Debug\SquareOfStrars.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\Drawing on the Console\SquareOfStrars\obj\Debug\SquareOfStrars.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Drawing on the Console\SquareOfStrars\obj\Debug\SquareOfStrars.exe
+C:\Users\9999\source\repos\Drawing on the Console\SquareOfStrars\obj\Debug\SquareOfStrars.pdb

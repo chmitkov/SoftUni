@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test33\bin\Debug\Test33.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test33\bin\Debug\Test33.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test33\bin\Debug\Test33.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test33\obj\Debug\Test33.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test33\obj\Debug\Test33.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test33\obj\Debug\Test33.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Test33\obj\Debug\Test33.pdb

@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest4PhoenixCOde\bin\Debug\ExamTest4PhoenixCOde.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest4PhoenixCOde\bin\Debug\ExamTest4PhoenixCOde.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest4PhoenixCOde\bin\Debug\ExamTest4PhoenixCOde.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest4PhoenixCOde\obj\Debug\ExamTest4PhoenixCOde.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest4PhoenixCOde\obj\Debug\ExamTest4PhoenixCOde.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest4PhoenixCOde\obj\Debug\ExamTest4PhoenixCOde.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\ExamTest4PhoenixCOde\obj\Debug\ExamTest4PhoenixCOde.pdb

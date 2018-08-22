@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\bin\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\bin\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\bin\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\bin\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\bin\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\obj\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\obj\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\obj\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\obj\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\obj\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays - Exercises_01. Largest Common End\obj\Debug\netcoreapp2.0\Arrays - Exercises_01. Largest Common End.pdb

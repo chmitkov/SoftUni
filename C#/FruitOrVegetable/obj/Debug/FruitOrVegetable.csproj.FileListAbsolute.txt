@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+C:\Users\9999\source\repos\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+C:\Users\9999\source\repos\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+C:\Users\9999\source\repos\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+C:\Users\9999\source\repos\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

@@ -16,7 +16,7 @@ namespace Arrays_Exercises_05._Compare_Char_Arrays
                  .Select(char.Parse)
                  .ToArray();
             bool firstFlag = false;
-            for (int i = 0; i < Math.Min(arr1.Length,arr2.Length); i++)
+            for (int i = 0; i < Math.Min(arr1.Length, arr2.Length); i++)
             {
                 if (arr1[i] == arr2[i])
                 {
@@ -38,8 +38,8 @@ namespace Arrays_Exercises_05._Compare_Char_Arrays
             }
             if (firstFlag == true)
             {
-                Console.WriteLine(string.Join("",arr1));
-                Console.WriteLine(string.Join("",arr2));
+                Console.WriteLine(string.Join("", arr1));
+                Console.WriteLine(string.Join("", arr2));
             }
             else
             {

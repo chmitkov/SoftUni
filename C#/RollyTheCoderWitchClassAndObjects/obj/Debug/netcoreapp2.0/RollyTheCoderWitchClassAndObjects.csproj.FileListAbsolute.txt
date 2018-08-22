@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\bin\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\bin\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\bin\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\bin\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\bin\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\obj\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\obj\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\obj\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\obj\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\obj\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\RollyTheCoderWitchClassAndObjects\obj\Debug\netcoreapp2.0\RollyTheCoderWitchClassAndObjects.pdb

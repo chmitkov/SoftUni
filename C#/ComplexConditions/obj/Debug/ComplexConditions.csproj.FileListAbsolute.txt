@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\ComplexConditions\bin\Debug\ComplexConditions.exe.config
+C:\Users\9999\source\repos\ComplexConditions\ComplexConditions\bin\Debug\ComplexConditions.exe
+C:\Users\9999\source\repos\ComplexConditions\ComplexConditions\bin\Debug\ComplexConditions.pdb
+C:\Users\9999\source\repos\ComplexConditions\ComplexConditions\obj\Debug\ComplexConditions.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\ComplexConditions\obj\Debug\ComplexConditions.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\ComplexConditions\obj\Debug\ComplexConditions.exe
+C:\Users\9999\source\repos\ComplexConditions\ComplexConditions\obj\Debug\ComplexConditions.pdb

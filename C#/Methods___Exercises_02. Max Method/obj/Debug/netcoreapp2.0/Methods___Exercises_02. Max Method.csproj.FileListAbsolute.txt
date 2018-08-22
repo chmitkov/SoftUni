@@ -1,0 +1,3 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_02. Max Method\obj\Debug\netcoreapp2.0\Methods___Exercises_02. Max Method.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_02. Max Method\obj\Debug\netcoreapp2.0\Methods___Exercises_02. Max Method.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_02. Max Method\obj\Debug\netcoreapp2.0\Methods___Exercises_02. Max Method.AssemblyInfo.cs

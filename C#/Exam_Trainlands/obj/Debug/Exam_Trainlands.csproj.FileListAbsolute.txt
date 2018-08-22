@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainlands\bin\Debug\Exam_Trainlands.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainlands\bin\Debug\Exam_Trainlands.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainlands\bin\Debug\Exam_Trainlands.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainlands\obj\Debug\Exam_Trainlands.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainlands\obj\Debug\Exam_Trainlands.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainlands\obj\Debug\Exam_Trainlands.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Trainlands\obj\Debug\Exam_Trainlands.pdb

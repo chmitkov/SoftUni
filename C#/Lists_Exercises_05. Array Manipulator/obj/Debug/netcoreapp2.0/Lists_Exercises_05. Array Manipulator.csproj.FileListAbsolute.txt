@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\bin\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\bin\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\bin\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\bin\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\bin\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\obj\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\obj\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\obj\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\obj\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\obj\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Lists_Exercises_05. Array Manipulator\obj\Debug\netcoreapp2.0\Lists_Exercises_05. Array Manipulator.pdb

@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ComplexConditions\FruitShop\bin\Debug\FruitShop.exe.config
+C:\Users\9999\source\repos\ComplexConditions\FruitShop\bin\Debug\FruitShop.exe
+C:\Users\9999\source\repos\ComplexConditions\FruitShop\bin\Debug\FruitShop.pdb
+C:\Users\9999\source\repos\ComplexConditions\FruitShop\obj\Debug\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\FruitShop\obj\Debug\FruitShop.exe
+C:\Users\9999\source\repos\ComplexConditions\FruitShop\obj\Debug\FruitShop.pdb

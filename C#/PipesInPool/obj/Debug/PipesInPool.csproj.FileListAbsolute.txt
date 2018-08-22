@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\PipesInPool\bin\Debug\PipesInPool.exe.config
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\PipesInPool\bin\Debug\PipesInPool.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\PipesInPool\bin\Debug\PipesInPool.pdb
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\PipesInPool\obj\Debug\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\PipesInPool\obj\Debug\PipesInPool.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\PipesInPool\obj\Debug\PipesInPool.pdb

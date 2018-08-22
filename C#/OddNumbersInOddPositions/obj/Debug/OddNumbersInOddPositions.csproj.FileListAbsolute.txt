@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\OddNumbersInOddPositions\bin\Debug\OddNumbersInOddPositions.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\OddNumbersInOddPositions\bin\Debug\OddNumbersInOddPositions.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\OddNumbersInOddPositions\bin\Debug\OddNumbersInOddPositions.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\OddNumbersInOddPositions\obj\Debug\OddNumbersInOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\OddNumbersInOddPositions\obj\Debug\OddNumbersInOddPositions.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\OddNumbersInOddPositions\obj\Debug\OddNumbersInOddPositions.pdb

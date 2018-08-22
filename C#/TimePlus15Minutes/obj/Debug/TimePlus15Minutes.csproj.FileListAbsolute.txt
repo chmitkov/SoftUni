@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\obj\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\obj\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\obj\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\bin\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\bin\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\bin\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\bin\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\bin\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\obj\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables - More Exercises_01. Type Boundaries\obj\Debug\netcoreapp2.0\DataTypesAndVariables - More Exercises_01. Type Boundaries.pdb

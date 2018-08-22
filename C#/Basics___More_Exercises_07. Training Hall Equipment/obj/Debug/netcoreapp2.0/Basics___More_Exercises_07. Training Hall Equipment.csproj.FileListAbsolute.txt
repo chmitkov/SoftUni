@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\bin\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\bin\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\bin\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\bin\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\bin\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\obj\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\obj\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\obj\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\obj\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Basics___More_Exercises_07. Training Hall Equipment\obj\Debug\netcoreapp2.0\Basics___More_Exercises_07. Training Hall Equipment.pdb

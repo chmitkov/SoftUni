@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\bin\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_04March2018PartI_01. Padawan Equipment\obj\Debug\netcoreapp2.0\PF_Exam_04March2018PartI_01. Padawan Equipment.pdb

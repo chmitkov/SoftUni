@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_03. Exact Sum of Real Numbers.pdb

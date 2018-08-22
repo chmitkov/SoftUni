@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\bin\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\bin\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\bin\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\bin\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\bin\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\obj\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\obj\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\obj\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\obj\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_08. Center Point\obj\Debug\netcoreapp2.0\Methods___Exercises_08. Center Point.pdb

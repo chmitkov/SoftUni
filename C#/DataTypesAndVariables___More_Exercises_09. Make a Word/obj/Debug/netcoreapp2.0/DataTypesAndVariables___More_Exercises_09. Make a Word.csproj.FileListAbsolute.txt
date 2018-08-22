@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_09. Make a Word\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_09. Make a Word.pdb

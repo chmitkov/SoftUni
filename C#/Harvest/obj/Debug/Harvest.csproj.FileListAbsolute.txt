@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Harvest\bin\Debug\Harvest.exe.config
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Harvest\bin\Debug\Harvest.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Harvest\bin\Debug\Harvest.pdb
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Harvest\obj\Debug\Harvest.exe
+C:\Users\9999\source\repos\CSharp_SimpleConditionsExam\Harvest\obj\Debug\Harvest.pdb

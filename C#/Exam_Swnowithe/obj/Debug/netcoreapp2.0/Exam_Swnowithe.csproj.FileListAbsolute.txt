@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\obj\Debug\netcoreapp2.0\Exam_Swnowithe.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\obj\Debug\netcoreapp2.0\Exam_Swnowithe.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\obj\Debug\netcoreapp2.0\Exam_Swnowithe.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\obj\Debug\netcoreapp2.0\Exam_Swnowithe.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\bin\Debug\netcoreapp2.0\Exam_Swnowithe.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\bin\Debug\netcoreapp2.0\Exam_Swnowithe.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\bin\Debug\netcoreapp2.0\Exam_Swnowithe.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\bin\Debug\netcoreapp2.0\Exam_Swnowithe.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\bin\Debug\netcoreapp2.0\Exam_Swnowithe.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\obj\Debug\netcoreapp2.0\Exam_Swnowithe.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Swnowithe\obj\Debug\netcoreapp2.0\Exam_Swnowithe.pdb

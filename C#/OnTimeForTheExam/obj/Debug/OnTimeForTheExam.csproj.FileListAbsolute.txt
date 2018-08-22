@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
+C:\Users\9999\source\repos\ComplexConditions\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
+C:\Users\9999\source\repos\ComplexConditions\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
+C:\Users\9999\source\repos\ComplexConditions\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
+C:\Users\9999\source\repos\ComplexConditions\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb

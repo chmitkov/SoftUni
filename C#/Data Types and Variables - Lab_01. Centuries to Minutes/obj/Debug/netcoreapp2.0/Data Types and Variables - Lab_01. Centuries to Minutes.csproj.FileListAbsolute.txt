@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\bin\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\bin\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\bin\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\bin\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\bin\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\obj\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\obj\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\obj\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\obj\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\obj\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data Types and Variables - Lab_01. Centuries to Minutes\obj\Debug\netcoreapp2.0\Data Types and Variables - Lab_01. Centuries to Minutes.csprojAssemblyReference.cache

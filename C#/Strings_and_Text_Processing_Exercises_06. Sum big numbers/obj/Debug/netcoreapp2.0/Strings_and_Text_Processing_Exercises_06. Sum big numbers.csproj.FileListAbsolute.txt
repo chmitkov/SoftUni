@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\bin\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Strings_and_Text_Processing_Exercises_06. Sum big numbers\obj\Debug\netcoreapp2.0\Strings_and_Text_Processing_Exercises_06. Sum big numbers.csprojAssemblyReference.cache

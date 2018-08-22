@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_03. Safe Manipulation\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_03. Safe Manipulation.pdb

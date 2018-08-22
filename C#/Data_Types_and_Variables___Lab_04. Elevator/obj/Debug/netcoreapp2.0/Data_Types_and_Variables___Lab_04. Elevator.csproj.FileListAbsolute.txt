@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_04. Elevator\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_04. Elevator.pdb

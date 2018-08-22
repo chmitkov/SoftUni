@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\obj\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\obj\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\obj\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\obj\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\bin\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\bin\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\bin\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\bin\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\bin\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\obj\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Exercises_01. Hello, Name!\obj\Debug\netcoreapp2.0\Methods - Exercises_01. Hello, Name!.pdb

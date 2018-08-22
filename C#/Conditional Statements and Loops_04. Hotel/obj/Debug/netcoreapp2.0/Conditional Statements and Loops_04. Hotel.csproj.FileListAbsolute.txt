@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\bin\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Conditional Statements and Loops_04. Hotel\obj\Debug\netcoreapp2.0\Conditional Statements and Loops_04. Hotel.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\bin\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables___More_Exercises_08. House Builder\obj\Debug\netcoreapp2.0\DataTypesAndVariables___More_Exercises_08. House Builder.pdb

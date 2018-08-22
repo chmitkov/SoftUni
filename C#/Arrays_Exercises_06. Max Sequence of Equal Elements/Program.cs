@@ -16,7 +16,7 @@ namespace Arrays_Exercises_06._Max_Sequence_of_Equal_Elements
             int counterMax = 0;
             int index = 0;
             int indexMax = 0;
-            for (int i = 0; i < nums.Length-1; i++)
+            for (int i = 0; i < nums.Length - 1; i++)
             {
                 if (nums[i] == nums[i + 1])
                 {
@@ -33,9 +33,9 @@ namespace Arrays_Exercises_06._Max_Sequence_of_Equal_Elements
                     counter = 0;
                 }
             }
-            for (int i = indexMax-counterMax+1; i <= indexMax+1; i++)
+            for (int i = indexMax - counterMax + 1; i <= indexMax + 1; i++)
             {
-                Console.Write(nums[i]+" ");
+                Console.Write(nums[i] + " ");
             }
         }
     }

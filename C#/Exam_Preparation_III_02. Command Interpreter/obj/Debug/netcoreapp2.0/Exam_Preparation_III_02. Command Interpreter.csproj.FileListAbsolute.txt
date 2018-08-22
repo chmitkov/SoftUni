@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\bin\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\bin\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\bin\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\bin\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\bin\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\obj\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\obj\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\obj\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\obj\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\obj\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_Preparation_III_02. Command Interpreter\obj\Debug\netcoreapp2.0\Exam_Preparation_III_02. Command Interpreter.pdb

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\bin\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger\obj\Debug\netcoreapp2.0\PF_Retake_Exam_25April2018Part_I_04. MOBA Challenger.pdb

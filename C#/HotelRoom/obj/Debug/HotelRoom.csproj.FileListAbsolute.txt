@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\HotelRoom\bin\Debug\HotelRoom.exe.config
+C:\Users\9999\source\repos\ComplexConditions\HotelRoom\bin\Debug\HotelRoom.exe
+C:\Users\9999\source\repos\ComplexConditions\HotelRoom\bin\Debug\HotelRoom.pdb
+C:\Users\9999\source\repos\ComplexConditions\HotelRoom\obj\Debug\HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\HotelRoom\obj\Debug\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\HotelRoom\obj\Debug\HotelRoom.exe
+C:\Users\9999\source\repos\ComplexConditions\HotelRoom\obj\Debug\HotelRoom.pdb

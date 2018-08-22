@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_PokemonEvolution\bin\Debug\Exam_PokemonEvolution.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_PokemonEvolution\bin\Debug\Exam_PokemonEvolution.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_PokemonEvolution\bin\Debug\Exam_PokemonEvolution.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_PokemonEvolution\obj\Debug\Exam_PokemonEvolution.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_PokemonEvolution\obj\Debug\Exam_PokemonEvolution.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_PokemonEvolution\obj\Debug\Exam_PokemonEvolution.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_PokemonEvolution\obj\Debug\Exam_PokemonEvolution.pdb

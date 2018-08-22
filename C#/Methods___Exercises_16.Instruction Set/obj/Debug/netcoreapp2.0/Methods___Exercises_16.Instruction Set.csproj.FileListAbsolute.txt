@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\bin\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\bin\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\bin\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\bin\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\bin\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\obj\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\obj\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\obj\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\obj\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\obj\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods___Exercises_16.Instruction Set\obj\Debug\netcoreapp2.0\Methods___Exercises_16.Instruction Set.pdb

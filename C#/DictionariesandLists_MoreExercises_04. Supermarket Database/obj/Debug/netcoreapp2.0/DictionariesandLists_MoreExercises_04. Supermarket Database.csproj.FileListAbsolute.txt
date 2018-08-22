@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\bin\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DictionariesandLists_MoreExercises_04. Supermarket Database\obj\Debug\netcoreapp2.0\DictionariesandLists_MoreExercises_04. Supermarket Database.pdb

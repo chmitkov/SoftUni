@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D98285B3-7672-40ED-AE1F-32406BEB024A}</ProjectGuid>
+    <ProjectGuid>{FC35BA38-272E-472F-B2BC-9981D72261AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Exam_AnoCache</RootNamespace>
     <AssemblyName>Exam_AnoCache</AssemblyName>

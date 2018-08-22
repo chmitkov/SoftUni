@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\bin\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\bin\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\bin\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\bin\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\bin\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\obj\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\obj\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\obj\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\obj\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\obj\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\Exam_25April2018_02. Memory View\obj\Debug\netcoreapp2.0\Exam_25April2018_02. Memory View.csprojAssemblyReference.cache

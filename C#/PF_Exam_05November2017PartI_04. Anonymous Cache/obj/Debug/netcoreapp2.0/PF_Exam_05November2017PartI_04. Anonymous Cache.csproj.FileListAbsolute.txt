@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_04. Anonymous Cache\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_04. Anonymous Cache.pdb

@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\bin\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_05November2017PartI_02. Anonymous Threat\obj\Debug\netcoreapp2.0\PF_Exam_05November2017PartI_02. Anonymous Threat.pdb

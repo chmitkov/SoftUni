@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ComplexConditions\Trip\bin\Debug\Trip.exe.config
+C:\Users\9999\source\repos\ComplexConditions\Trip\bin\Debug\Trip.exe
+C:\Users\9999\source\repos\ComplexConditions\Trip\bin\Debug\Trip.pdb
+C:\Users\9999\source\repos\ComplexConditions\Trip\obj\Debug\Trip.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ComplexConditions\Trip\obj\Debug\Trip.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ComplexConditions\Trip\obj\Debug\Trip.exe
+C:\Users\9999\source\repos\ComplexConditions\Trip\obj\Debug\Trip.pdb

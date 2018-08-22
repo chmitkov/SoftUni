@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_IV_03. Football League\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_IV_03. Football League.pdb

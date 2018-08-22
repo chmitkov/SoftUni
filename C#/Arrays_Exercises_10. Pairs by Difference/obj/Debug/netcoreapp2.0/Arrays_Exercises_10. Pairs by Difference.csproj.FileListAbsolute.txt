@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\bin\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\bin\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\bin\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\bin\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\bin\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\obj\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\obj\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\obj\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\obj\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\obj\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_Exercises_10. Pairs by Difference\obj\Debug\netcoreapp2.0\Arrays_Exercises_10. Pairs by Difference.pdb

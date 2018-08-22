@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_05. Special Numbers\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_05. Special Numbers.pdb

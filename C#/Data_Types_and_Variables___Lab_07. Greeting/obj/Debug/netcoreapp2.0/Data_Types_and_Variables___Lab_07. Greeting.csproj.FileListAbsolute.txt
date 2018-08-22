@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\bin\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Data_Types_and_Variables___Lab_07. Greeting\obj\Debug\netcoreapp2.0\Data_Types_and_Variables___Lab_07. Greeting.pdb

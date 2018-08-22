@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\Loops\Division\bin\Debug\Division.exe.config
+C:\Users\9999\source\repos\Loops\Division\bin\Debug\Division.exe
+C:\Users\9999\source\repos\Loops\Division\bin\Debug\Division.pdb
+C:\Users\9999\source\repos\Loops\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Loops\Division\obj\Debug\Division.exe
+C:\Users\9999\source\repos\Loops\Division\obj\Debug\Division.pdb

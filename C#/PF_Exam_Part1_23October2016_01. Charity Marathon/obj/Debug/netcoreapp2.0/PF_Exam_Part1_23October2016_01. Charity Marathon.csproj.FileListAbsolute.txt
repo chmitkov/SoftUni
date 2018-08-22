@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.deps.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.runtimeconfig.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.runtimeconfig.dev.json
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\bin\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.pdb
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.AssemblyInfo.cs
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.dll
+C:\Users\9999\source\repos\Programing_Fundamentals_Part2\PF_Exam_Part1_23October2016_01. Charity Marathon\obj\Debug\netcoreapp2.0\PF_Exam_Part1_23October2016_01. Charity Marathon.pdb

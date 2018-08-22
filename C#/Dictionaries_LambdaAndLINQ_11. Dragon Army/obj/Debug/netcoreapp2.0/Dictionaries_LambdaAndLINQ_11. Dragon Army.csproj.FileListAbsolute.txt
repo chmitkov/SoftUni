@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\bin\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries_LambdaAndLINQ_11. Dragon Army\obj\Debug\netcoreapp2.0\Dictionaries_LambdaAndLINQ_11. Dragon Army.pdb

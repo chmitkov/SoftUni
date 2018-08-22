@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Tete\bin\Debug\Tete.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Tete\bin\Debug\Tete.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Tete\bin\Debug\Tete.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Tete\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Tete\obj\Debug\Tete.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Tete\obj\Debug\Tete.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Tete\obj\Debug\Test.csprojAssemblyReference.cache

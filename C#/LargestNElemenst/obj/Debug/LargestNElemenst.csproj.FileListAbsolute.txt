@@ -1,0 +1,6 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\LargestNElemenst\bin\Debug\LargestNElemenst.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\LargestNElemenst\bin\Debug\LargestNElemenst.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\LargestNElemenst\bin\Debug\LargestNElemenst.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\LargestNElemenst\obj\Debug\LargestNElemenst.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\LargestNElemenst\obj\Debug\LargestNElemenst.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\LargestNElemenst\obj\Debug\LargestNElemenst.pdb

@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\bin\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\DataTypesAndVariables__More_Exercises_13. Decrypting Message\obj\Debug\netcoreapp2.0\DataTypesAndVariables__More_Exercises_13. Decrypting Message.pdb

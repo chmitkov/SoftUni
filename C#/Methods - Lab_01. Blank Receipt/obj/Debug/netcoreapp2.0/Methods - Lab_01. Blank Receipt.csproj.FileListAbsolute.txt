@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\obj\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\obj\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\obj\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\obj\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\bin\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\bin\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\bin\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\bin\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\bin\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\obj\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Methods - Lab_01. Blank Receipt\obj\Debug\netcoreapp2.0\Methods - Lab_01. Blank Receipt.pdb

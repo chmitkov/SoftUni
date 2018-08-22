@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\bin\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\PF_Exam_Preparation_II_04. Roli The Coder\obj\Debug\netcoreapp2.0\PF_Exam_Preparation_II_04. Roli The Coder.pdb

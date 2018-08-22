@@ -1,0 +1,11 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\bin\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.csprojAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook\obj\Debug\netcoreapp2.0\Dictionaries,LambdaAndLINQ_Exercises_01. Phonebook.pdb

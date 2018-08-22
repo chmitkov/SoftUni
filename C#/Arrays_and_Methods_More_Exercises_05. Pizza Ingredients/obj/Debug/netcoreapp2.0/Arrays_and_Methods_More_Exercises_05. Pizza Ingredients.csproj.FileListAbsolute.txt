@@ -1,0 +1,10 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.deps.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.runtimeconfig.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.runtimeconfig.dev.json
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\bin\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.AssemblyInfoInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.AssemblyInfo.cs
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.dll
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients\obj\Debug\netcoreapp2.0\Arrays_and_Methods_More_Exercises_05. Pizza Ingredients.pdb

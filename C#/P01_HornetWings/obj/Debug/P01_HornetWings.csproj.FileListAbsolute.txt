@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P01_HornetWings\bin\Debug\P01_HornetWings.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P01_HornetWings\bin\Debug\P01_HornetWings.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P01_HornetWings\bin\Debug\P01_HornetWings.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P01_HornetWings\obj\Debug\P01_HornetWings.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P01_HornetWings\obj\Debug\P01_HornetWings.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P01_HornetWings\obj\Debug\P01_HornetWings.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\P01_HornetWings\obj\Debug\P01_HornetWings.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Anon\bin\Debug\Exam_Anon.exe.config
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Anon\bin\Debug\Exam_Anon.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Anon\bin\Debug\Exam_Anon.pdb
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Anon\obj\Debug\Exam_Anon.csprojResolveAssemblyReference.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Anon\obj\Debug\Exam_Anon.csproj.CoreCompileInputs.cache
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Anon\obj\Debug\Exam_Anon.exe
+C:\Users\9999\source\repos\ProgramingFundamentalsExams\Exam_Anon\obj\Debug\Exam_Anon.pdb
