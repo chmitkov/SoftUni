@@ -1,0 +1,86 @@
+UPDATE 
+
+UPDATE table_name
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+
+https://www.w3schools.com/sql/sql_update.asp
+
+
+Function syntax:
+
+DELIMITER $$
+
+CREATE FUNCTION ufn_calculate_future_value(input_sum DECIMAL, yearly_interest_rate DOUBLE, years DOUBLE)
+
+RETURNS DECIMAL
+
+DETERMINISTIC
+
+BEGIN
+    
+	DECLARE result DECIMAL;
+    
+	SET result := (input_sum * POWER((1+yearly_interest_rate), years));
+    
+	RETURN result;
+
+END $$
+
+DELIMITER ;
+
+
+SELECT ufn_calculate_future_value(1000, 0.1, 5);
+
+
+
+
+
+Procedure syntax:
+
+DELIMITER $$
+CREATE PROCEDURE usp_select_employees_by_seniority(min_years_at_work INT)
+BEGIN
+  SELECT ;
+END $$
+CALL usp_select_employees_by_seniority(15);
+
+
+
+
+
+
+Procedure returning values Using Output parameters:
+
+CREATE PROCEDURE usp_add_numbers (first_number INT,second_number INT,
+   OUT result INT)
+BEGIN
+   SET result = first_number + second_number
+END $$
+DELIMITER ;
+
+SET @answer=0;
+CALL usp_add_numbers(5, 6,@answer);
+SELECT @answer;
+
+
+
+
+
+Transaction syntax:
+
+CREATE PROCEDURE usp_raise_salary_by_id(id int)
+BEGIN
+	START TRANSACTION;
+	IF((SELECT count(employee_id) FROM employees WHERE employee_id like id)<>1) 
+	THEN
+	ROLLBACK;
+	ELSE
+		UPDATE employees AS e SET salary = salary + salary*0.05 
+		WHERE e.employee_id = id;
+	COMMIT
+	END IF; 
+END
+
+
+
