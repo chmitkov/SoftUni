@@ -1,0 +1,171 @@
+INSER INTO 
+INSERT INTO `issues` (`title`, `issue_status`, `repository_id`, `assignee_id`)
+	SELECT CONCAT('Critical Problem With ', f.`name`,'!') AS 'title',
+    'open' AS `issue_status`,
+    CEIL((f.`id`*2)/3) AS `repository_id`,
+    c.`contributor_id` AS `assignee_id`
+    FROM files AS f
+    JOIN commits AS c
+    ON f.`commit_id` = c.`id`
+    WHERE f.`id` BETWEEN 46 AND 50;
+
+
+UPDATE 
+UPDATE table_name
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+
+https://www.w3schools.com/sql/sql_update.asp
+
+
+Function syntax:
+
+DELIMITER $$
+
+CREATE FUNCTION ufn_calculate_future_value(input_sum DECIMAL, yearly_interest_rate DOUBLE, years DOUBLE)
+
+RETURNS DECIMAL
+
+DETERMINISTIC
+
+BEGIN
+    
+	DECLARE result DECIMAL;
+    
+	SET result := (input_sum * POWER((1+yearly_interest_rate), years));
+    
+	RETURN result;
+
+END $$
+
+DELIMITER ;
+
+
+SELECT ufn_calculate_future_value(1000, 0.1, 5);
+
+
+
+
+
+Procedure syntax:
+
+DELIMITER $$
+CREATE PROCEDURE usp_select_employees_by_seniority(min_years_at_work INT)
+BEGIN
+  SELECT ;
+END $$
+CALL usp_select_employees_by_seniority(15);
+
+
+
+
+
+
+Procedure returning values Using Output parameters:
+
+CREATE PROCEDURE usp_add_numbers (first_number INT,second_number INT,
+   OUT result INT)
+BEGIN
+   SET result = first_number + second_number
+END $$
+DELIMITER ;
+
+SET @answer=0;
+CALL usp_add_numbers(5, 6,@answer);
+SELECT @answer;
+
+
+
+
+
+Transaction syntax:
+
+CREATE PROCEDURE usp_raise_salary_by_id(id int)
+BEGIN
+	START TRANSACTION;
+	IF((SELECT count(employee_id) FROM employees WHERE employee_id like id)<>1) 
+	THEN
+	ROLLBACK;
+	ELSE
+		UPDATE employees AS e SET salary = salary + salary*0.05 
+		WHERE e.employee_id = id;
+	COMMIT
+	END IF; 
+END
+
+
+
+Trigger Syntax: 
+
+
+CREATE TRIGGER tr_deleted_employees
+AFTER DELETE 
+ON employees
+FOR EACH ROW 
+BEGIN INSERT INTO deleted_employees(first_name,last_name, middle_name,job_title,department_id,salary)
+VALUES(OLD.first_name,OLD.last_name,OLD.middle_name,OLD. job_title,OLD.department_id,OLD.salary);
+END;
+
+
+
+procedure:
+
+DELIMITER $$
+CREATE PROCEDURE udp_commit(username VARCHAR(30), password VARCHAR(30),
+    message VARCHAR(255), issue_id INT(11))
+BEGIN
+  DECLARE contributor_id INT(11);
+  DECLARE repository_id INT(11);
+
+  IF (SELECT COUNT(u.username)
+    FROM users AS u
+    WHERE u.username = username) <> 1 
+  THEN SIGNAL SQLSTATE '45000'
+    SET MESSAGE_TEXT = 'No such user!';
+  END IF;
+    
+    IF (SELECT COUNT(u.username)
+    FROM users AS u
+    WHERE u.username = username AND u.password = password) <> 1 
+  THEN SIGNAL SQLSTATE '45000'
+    SET MESSAGE_TEXT = 'Password is incorrect!';
+  END IF;
+    
+    IF (SELECT COUNT(i.title)
+    FROM issues AS i
+    WHERE i.id = issue_id) <> 1 
+  THEN SIGNAL SQLSTATE '45000'
+    SET MESSAGE_TEXT = 'The issue does not exist!';
+  END IF;
+    
+    SET contributor_id := (SELECT u.id
+    FROM users AS u
+        WHERE u.username = username);
+        
+  SET repository_id := (SELECT i.repository_id
+    FROM issues AS i
+    WHERE i.id = issue_id);
+        
+  INSERT INTO commits(message, issue_id, repository_id, contributor_id)
+    VALUES (message, issue_id, repository_id, contributor_id);
+    
+    UPDATE issues
+    SET issues.issue_status = 'closed'
+    WHERE issues.id = issue_id;
+    
+END        
+$$
+
+
+procedure:
+
+DELIMITER $$
+CREATE PROCEDURE udp_findbyextension(extension VARCHAR(50))
+BEGIN
+  SELECT f.id, f.name AS caption, concat(f.size, 'KB') AS size
+  FROM files AS f
+  WHERE f.name LIKE concat('%.', extension)
+  ORDER BY f.id;
+END
+$$
+DELIMITER ;
