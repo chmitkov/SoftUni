@@ -1,0 +1,26 @@
+.navbar-background {
+    background-color: #1438A8;
+    color: white;
+}
+
+.body-background {
+    background-image: url("https://res.cloudinary.com/rado-cloud/image/upload/v1540981485/ccb-background.jpg");
+
+    /*background-repeat:no-repeat;*/
+    background-size:cover;
+    background-position:center;
+}
+
+.jumbotron-background {
+    background-color: #217440;
+    color: white;
+}
+
+.hr-background {
+    background-color: white;
+    height: 1px;
+}
+
+.footer-background {
+    color: #1438A8;
+}
