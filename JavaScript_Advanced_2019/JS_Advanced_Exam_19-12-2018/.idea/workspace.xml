@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2cb1d0a-e410-41a6-af0d-ee5527ba1ff9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_DartGame/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="e#60#243#0" />
+                <element signature="e#343#1061#0" />
+                <element signature="e#1083#1416#0" />
+                <element signature="n#!!block;n#hitTarget#0;n#!!block;n#dart#0" />
+                <element signature="e#1651#2165#0" />
+                <element signature="e#2213#2942#0" />
+                <element signature="e#2981#3388#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_DartGame/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_01_GiftShop/app.js" />
+        <option value="$PROJECT_DIR$/02_Kitchen/kitchen.js" />
+        <option value="$PROJECT_DIR$/03_Warehouse/warehouseTest.js" />
+        <option value="$PROJECT_DIR$/04_DartGame/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="195" />
+    <option name="y" value="79" />
+    <option name="width" value="1200" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS_Advanced_Exam_19-12-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam_19-12-2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\9999\Desktop\JS_Advanced_Exam_19-12-2018" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.Test for Warehouse class">
+    <configuration name="Test for Warehouse class" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/03_Warehouse/warehouseTest.js</test-file>
+      <test-names>
+        <name value="Test for Warehouse class" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test for Warehouse class.Test get/set capacity method" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/03_Warehouse/warehouseTest.js</test-file>
+      <test-names>
+        <name value="Test for Warehouse class" />
+        <name value="Test get/set capacity method" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test for Warehouse class.Test scrapeAProduct function.should work correct with remove products quantity" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/03_Warehouse/warehouseTest.js</test-file>
+      <test-names>
+        <name value="Test for Warehouse class" />
+        <name value="Test scrapeAProduct function" />
+        <name value="should work correct with remove products quantity" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test for Warehouse class.Test scrapeAProduct function.should " type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/03_Warehouse/warehouseTest.js</test-file>
+      <test-names>
+        <name value="Test for Warehouse class" />
+        <name value="Test scrapeAProduct function" />
+        <name value="should " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test revision function" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/03_Warehouse/warehouseTest.js</test-file>
+      <test-names>
+        <name value="Test revision function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Test for Warehouse class" />
+        <item itemvalue="Mocha.Test revision function" />
+        <item itemvalue="Mocha.Test for Warehouse class.Test get/set capacity method" />
+        <item itemvalue="Mocha.Test for Warehouse class.Test scrapeAProduct function.should work correct with remove products quantity" />
+        <item itemvalue="Mocha.Test for Warehouse class.Test scrapeAProduct function.should " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2cb1d0a-e410-41a6-af0d-ee5527ba1ff9" name="Default Changelist" comment="" />
+      <created>1561459135191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561459135191</updated>
+      <workItem from="1561459136475" duration="11249000" />
+      <workItem from="1561533060453" duration="8012000" />
+      <workItem from="1561541612073" duration="355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_for_Warehouse_class_Test_scrapeAProduct_function_should_ - 2019.06.25 at 16h 35m 55s.xml">
+      <configuration name="Test for Warehouse class.Test scrapeAProduct function.should " configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class_Test_scrapeAProduct_function_should_work_correct_with_remove_products_quantity - 2019.06.25 at 16h 36m 32s.xml">
+      <configuration name="Test for Warehouse class.Test scrapeAProduct function.should work correct with remove products quantity" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class - 2019.06.25 at 16h 37m 11s.xml">
+      <configuration name="Test for Warehouse class" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class - 2019.06.25 at 16h 38m 44s.xml">
+      <configuration name="Test for Warehouse class" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class - 2019.06.25 at 16h 38m 47s.xml">
+      <configuration name="Test for Warehouse class" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class - 2019.06.25 at 16h 39m 35s.xml">
+      <configuration name="Test for Warehouse class" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class - 2019.06.25 at 16h 49m 16s.xml">
+      <configuration name="Test for Warehouse class" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class_Test_get_set_capacity_method - 2019.06.25 at 16h 50m 16s.xml">
+      <configuration name="Test for Warehouse class.Test get/set capacity method" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_revision_function - 2019.06.25 at 16h 50m 59s.xml">
+      <configuration name="Test revision function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_for_Warehouse_class - 2019.06.25 at 16h 52m 05s.xml">
+      <configuration name="Test for Warehouse class" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19616000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10646388" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293011" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_GiftShop/gift.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_GiftShop/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="e#43#347#0" />
+            <element signature="n#!!block;n#f#0;n#!!block;n#solution#0" />
+            <element signature="n#!!block;n#f#0;n#!!block;n#solution#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_GiftShop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_Kitchen/kitchen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="104" selection-end-column="1" />
+          <folding>
+            <element signature="n#Kitchen#0" />
+            <element signature="n#!!block;n#loadProducts#0;n#Kitchen#0" />
+            <element signature="n#!!block;n#addToMenu#0;n#Kitchen#0" />
+            <element signature="n#!!block;n#showTheMenu#0;n#Kitchen#0" />
+            <element signature="n#!!block;n#haveAllNeedProd#0;n#Kitchen#0" />
+            <element signature="n#!!block;n#removeProduct#0;n#Kitchen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Warehouse/warehouseTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="135" column="17" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
+          <folding>
+            <element signature="n#Warehouse#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DartGame/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_DartGame/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#60#243#0" />
+            <element signature="e#343#1061#0" />
+            <element signature="e#1083#1416#0" />
+            <element signature="n#!!block;n#hitTarget#0;n#!!block;n#dart#0" />
+            <element signature="e#1651#2165#0" />
+            <element signature="e#2213#2942#0" />
+            <element signature="e#2981#3388#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

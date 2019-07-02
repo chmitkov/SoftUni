@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cc9a180-1dd7-431a-bb58-d7657eaeded7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="165" selection-start-line="165" selection-end-line="165" />
+              <folding>
+                <element signature="n#!!block;n#downloadSong#0;n#SoftUniFy#0" />
+                <element signature="n#!!block;n#songsList#0;n#SoftUniFy#0" />
+                <element signature="n#!!block;n#rateArtist#0;n#SoftUniFy#0" />
+                <element signature="e#2196#4416#0" />
+                <element signature="e#2291#2307#0" />
+                <element signature="e#2223#2239#0" />
+                <element signature="e#2584#2600#0" />
+                <element signature="e#2621#2645#0" />
+                <element signature="e#3057#3073#0" />
+                <element signature="e#3580#3596#0" />
+                <element signature="e#3858#3882#0" />
+                <element signature="e#4335#4412#0" />
+                <element signature="e#4380#4404#0" />
+                <element signature="e#4632#4656#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_01_FormAcceptance/scripts/app.js" />
+        <option value="$PROJECT_DIR$/_02_Vacation/vacation.js" />
+        <option value="$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="195" />
+    <option name="y" value="79" />
+    <option name="width" value="1200" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS_Advanced_Exam_Preparation_June2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam_Preparation_June2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Advanced_Exam_Preparation_June2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam_Preparation_June2019" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_Vacation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\9999\Desktop\JS_Advanced_Exam_Preparation_June2019\_03_SoftUnify" />
+      <recent name="C:\Users\9999\Desktop\JS_Advanced_Exam_Preparation_June2019" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.Test class Softunify.Test playSong function.should retrun list with songs to play">
+    <configuration name="Test class Softunify.Test playSong function.should retrun list with songs to play" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js</test-file>
+      <test-names>
+        <name value="Test class Softunify" />
+        <name value="Test playSong function" />
+        <name value="should retrun list with songs to play" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test class Softunify.Test playSong function.should return &quot;not downloaded yet&quot;" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js</test-file>
+      <test-names>
+        <name value="Test class Softunify" />
+        <name value="Test playSong function" />
+        <name value="should return &quot;not downloaded yet&quot;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test class Softunify.Test rateArtist function" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js</test-file>
+      <test-names>
+        <name value="Test class Softunify" />
+        <name value="Test rateArtist function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test class Softunify.Test rateArtist function.should return 0 with second param string" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js</test-file>
+      <test-names>
+        <name value="Test class Softunify" />
+        <name value="Test rateArtist function" />
+        <name value="should return 0 with second param string" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test class Softunify.Test rateArtist function.should return correct result for Artist" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js</test-file>
+      <test-names>
+        <name value="Test class Softunify" />
+        <name value="Test rateArtist function" />
+        <name value="should return correct result for Artist" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Test" />
+      <item itemvalue="Mocha.Test class Softunify.Test rateArtist function" />
+      <item itemvalue="Mocha.Test class Softunify.Test rateArtist function.should return 0 with second param string" />
+      <item itemvalue="Mocha.Test class Softunify.Test rateArtist function.should return correct result for Artist" />
+      <item itemvalue="Mocha.Test class Softunify.Test playSong function.should return &quot;not downloaded yet&quot;" />
+      <item itemvalue="Mocha.Test class Softunify.Test playSong function.should retrun list with songs to play" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Test class Softunify.Test playSong function.should retrun list with songs to play" />
+        <item itemvalue="Mocha.Test class Softunify.Test playSong function.should return &quot;not downloaded yet&quot;" />
+        <item itemvalue="Mocha.Test class Softunify.Test rateArtist function.should return correct result for Artist" />
+        <item itemvalue="Mocha.Test class Softunify.Test rateArtist function.should return 0 with second param string" />
+        <item itemvalue="Mocha.Test class Softunify.Test rateArtist function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc9a180-1dd7-431a-bb58-d7657eaeded7" name="Default Changelist" comment="" />
+      <created>1561449134893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561449134893</updated>
+      <workItem from="1561449137460" duration="114000" />
+      <workItem from="1561449337738" duration="9500000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_class_Softunify_Test_songsList_function_should_work_corrent_with_two_songs - 2019.06.25 at 13h 09m 25s.xml">
+      <configuration name="Test class Softunify.Test songsList function.should work corrent with two songs" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_songsList_function - 2019.06.25 at 13h 09m 42s.xml">
+      <configuration name="Test class Softunify.Test songsList function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_rateArtist_function_should_return_artist_not_in_your_list - 2019.06.25 at 13h 11m 56s.xml">
+      <configuration name="Test class Softunify.Test rateArtist function.should return artist not in your list" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_rateArtist_function - 2019.06.25 at 13h 12m 06s.xml">
+      <configuration name="Test class Softunify.Test rateArtist function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_rateArtist_function_should_return_0_with_second_param_string - 2019.06.25 at 13h 19m 24s.xml">
+      <configuration name="Test class Softunify.Test rateArtist function.should return 0 with second param string" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_rateArtist_function_should_return_0_with_second_param_string - 2019.06.25 at 13h 19m 47s.xml">
+      <configuration name="Test class Softunify.Test rateArtist function.should return 0 with second param string" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_rateArtist_function_should_return_correct_result_for_Artist - 2019.06.25 at 13h 20m 34s.xml">
+      <configuration name="Test class Softunify.Test rateArtist function.should return correct result for Artist" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_playSong_function_should_return__not_downloaded_yet_ - 2019.06.25 at 13h 25m 09s.xml">
+      <configuration name="Test class Softunify.Test playSong function.should return &quot;not downloaded yet&quot;" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_playSong_function_should_retrun_list_with_songs_to_play - 2019.06.25 at 13h 28m 02s.xml">
+      <configuration name="Test class Softunify.Test playSong function.should retrun list with songs to play" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_class_Softunify_Test_playSong_function_should_retrun_list_with_songs_to_play - 2019.06.25 at 13h 29m 20s.xml">
+      <configuration name="Test class Softunify.Test playSong function.should retrun list with songs to play" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9614000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3293011" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_01_FormAcceptance/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#acceptance#0" />
+            <element signature="e#45#545#0" />
+            <element signature="n#!!block;n#addIt#0;n#!!block;n#acceptance#0" />
+            <element signature="n#!!block;n#f#0;n#!!block;n#acceptance#0" />
+            <element signature="n#!!block;n#outOfStock#0;n#!!block;n#acceptance#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_FormAcceptance/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_Vacation/vacation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="71" column="30" lean-forward="true" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!block;n#numberOfChildren#0;n#Vacation#0" />
+            <element signature="n#!!block;n#registerChild#0;n#Vacation#0" />
+            <element signature="n#!!block;n#pushKidIntoKids#0;n#Vacation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SoftUnify/_03_Softunify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+          <folding>
+            <element signature="n#!!block;n#downloadSong#0;n#SoftUniFy#0" />
+            <element signature="n#!!block;n#songsList#0;n#SoftUniFy#0" />
+            <element signature="n#!!block;n#rateArtist#0;n#SoftUniFy#0" />
+            <element signature="e#2196#4416#0" />
+            <element signature="e#2291#2307#0" />
+            <element signature="e#2223#2239#0" />
+            <element signature="e#2584#2600#0" />
+            <element signature="e#2621#2645#0" />
+            <element signature="e#3057#3073#0" />
+            <element signature="e#3580#3596#0" />
+            <element signature="e#3858#3882#0" />
+            <element signature="e#4335#4412#0" />
+            <element signature="e#4380#4404#0" />
+            <element signature="e#4632#4656#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

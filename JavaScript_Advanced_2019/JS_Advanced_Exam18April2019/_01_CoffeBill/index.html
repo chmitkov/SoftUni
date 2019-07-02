@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Coffee Bill</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<h2>Coffee Bill</h2>
+<table id="bill">
+    <thead>
+    <tr>
+        <th>Product</th>
+        <th>Price</th>
+    </tr>
+    </thead>
+    <tbody id="product-list"></tbody>
+    <tfoot>
+    <tr>
+        <td>Total:</td>
+        <td>0.00</td>
+    </tr>
+    </tfoot>
+</table>
+<section id="add-product">
+    <h3>Add new product</h3>
+    <label>
+        <span>
+            Product:
+        </span>
+        <input type="text">
+    </label>
+    <label>
+        <span>
+            Price:
+        </span>
+        <input type="number">
+    </label>
+    <button onclick="addProduct()">Add</button>
+</section>
+
+<script>
+    function addProduct() {
+        let productList = document.getElementById('product-list');
+        let inputProductElement = document.querySelector('input[type="text"]');
+        let inputPriceElement = document.querySelector('input[type="number"]');
+
+        if (inputProductElement.value !== ''
+            && inputPriceElement.value !== ''
+            && inputPriceElement.value > 0) {
+            let trElement = document.createElement('tr');
+            let tdFirstElement = document.createElement('td');
+            tdFirstElement.textContent = inputProductElement.value;
+            let tdSecondElement = document.createElement('td');
+            tdSecondElement.textContent = inputPriceElement.value;
+            trElement.appendChild(tdFirstElement);
+            trElement.appendChild(tdSecondElement);
+
+            productList.appendChild(trElement);
+
+            total(+inputPriceElement.value);
+
+            inputPriceElement.value = '';
+            inputProductElement.value = '';
+
+            function total(sum) {
+                let totalElement = document.querySelector('#bill > tfoot > tr > td:nth-child(2)');
+                totalElement.textContent = (+totalElement.textContent + sum).toFixed(2);
+            }
+        }
+    }
+
+
+</script>
+
+</body>
+</html>
