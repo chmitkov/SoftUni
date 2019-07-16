@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33fda5fb-ff2c-4f64-91c5-0afdfc2b1598" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_04_Heroes/scripts/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!block;n#createEmptyFieldSet#0;n#!!block;n#solve#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_04_Heroes/template.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_01_SoftUniCourses/template.html" />
+        <option value="$PROJECT_DIR$/_01_SoftUniCourses/scripts/solution.js" />
+        <option value="$PROJECT_DIR$/_02_FilmStudio/filmTests.js" />
+        <option value="$PROJECT_DIR$/_02_FilmStudio/filmStudio.js" />
+        <option value="$PROJECT_DIR$/_03_Hotel/Hotel.js" />
+        <option value="$PROJECT_DIR$/_03_Hotel/hotel.js" />
+        <option value="$PROJECT_DIR$/_04_Heroes/scripts/solution.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS_Advanced_Exam17-03-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam17-03-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Advanced_Exam17-03-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam17-03-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_FilmStudio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Advanced_Exam17-03-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam17-03-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_Heroes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Advanced_Exam17-03-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam17-03-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_Heroes" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS_Advanced_Exam17-03-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Advanced_Exam17-03-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_Heroes" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_04_Heroes" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\4\Desktop\JS_Advanced_Exam17-03-2019\_02_FilmStudio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\4\Desktop\JS_Advanced_Exam17-03-2019\_04_Heroes" />
+      <recent name="C:\Users\4\Desktop\JS_Advanced_Exam17-03-2019\_01_SoftUniCourses" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.hotel.js">
+    <configuration name="hotel.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="hotel.js" working-dir="$PROJECT_DIR$/_03_Hotel">
+      <method v="2" />
+    </configuration>
+    <configuration name="Film Studio" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/_02_FilmStudio/filmStudio.js</test-file>
+      <test-names>
+        <name value="Film Studio" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Film Studio.Casting.successful find work for actor" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_02_FilmStudio/filmStudio.js</test-file>
+      <test-names>
+        <name value="Film Studio" />
+        <name value="Casting" />
+        <name value="successful find work for actor" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Film Studio.Look for producer.can't find given movie" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_02_FilmStudio/filmStudio.js</test-file>
+      <test-names>
+        <name value="Film Studio" />
+        <name value="Look for producer" />
+        <name value="can't find given movie" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Film Studio.Look for producer.should work correct with all right arguments" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/_02_FilmStudio/filmStudio.js</test-file>
+      <test-names>
+        <name value="Film Studio" />
+        <name value="Look for producer" />
+        <name value="should work correct with all right arguments" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.hotel.js" />
+        <item itemvalue="Mocha.Film Studio" />
+        <item itemvalue="Mocha.Film Studio.Look for producer.should work correct with all right arguments" />
+        <item itemvalue="Mocha.Film Studio.Look for producer.can't find given movie" />
+        <item itemvalue="Mocha.Film Studio.Casting.successful find work for actor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33fda5fb-ff2c-4f64-91c5-0afdfc2b1598" name="Default Changelist" comment="" />
+      <created>1561284942017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561284942017</updated>
+      <workItem from="1561284945839" duration="23738000" />
+      <workItem from="1562076957524" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Film_Studio_Casting_successful_find_work_for_actor - 2019.06.23 at 16h 49m 15s.xml">
+      <configuration name="Film Studio.Casting.successful find work for actor" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Casting_successful_find_work_for_actor - 2019.06.23 at 16h 51m 05s.xml">
+      <configuration name="Film Studio.Casting.successful find work for actor" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Casting_successful_find_work_for_actor - 2019.06.23 at 16h 51m 34s.xml">
+      <configuration name="Film Studio.Casting.successful find work for actor" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Casting_successful_find_work_for_actor - 2019.06.23 at 16h 53m 41s.xml">
+      <configuration name="Film Studio.Casting.successful find work for actor" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Casting_successful_find_work_for_actor - 2019.06.23 at 16h 54m 59s.xml">
+      <configuration name="Film Studio.Casting.successful find work for actor" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Casting_successful_find_work_for_actor - 2019.06.23 at 16h 55m 28s.xml">
+      <configuration name="Film Studio.Casting.successful find work for actor" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Look_for_producer_can't_find_given_movie - 2019.06.23 at 16h 59m 48s.xml">
+      <configuration name="Film Studio.Look for producer.can't find given movie" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Look_for_producer_should_work_correct_with_all_right_arguments - 2019.06.23 at 17h 04m 37s.xml">
+      <configuration name="Film Studio.Look for producer.should work correct with all right arguments" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio_Look_for_producer_should_work_correct_with_all_right_arguments - 2019.06.23 at 17h 05m 05s.xml">
+      <configuration name="Film Studio.Look for producer.should work correct with all right arguments" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Film_Studio - 2019.06.23 at 17h 05m 24s.xml">
+      <configuration name="Film Studio" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23810000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13839285" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22913256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="3" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_01_SoftUniCourses/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="36" column="53" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_SoftUniCourses/scripts/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_FilmStudio/filmTests.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="126" column="25" lean-forward="true" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_Hotel/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="120" selection-end-column="1" />
+          <folding>
+            <element signature="n#Hotel#0" />
+            <element signature="n#!!block;n#constructor#0;n#Hotel#0" />
+            <element signature="n#!!block;n#rentARoom#0;n#Hotel#0" />
+            <element signature="n#!!block;n#roomService#0;n#Hotel#0" />
+            <element signature="n#!!block;n#checkOut#0;n#Hotel#0" />
+            <element signature="n#!!block;n#roomPriceMap#0;n#Hotel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_FilmStudio/filmStudio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="n#!!block;n#casting#0;n#FilmStudio#0" />
+            <element signature="n#!!block;n#makeMovie#0;n#FilmStudio#0" />
+            <element signature="e#2964#3028#0" />
+            <element signature="e#2921#2937#0" />
+            <element signature="e#3253#3269#0" />
+            <element signature="e#4592#4616#0" />
+            <element signature="e#5342#5610#0" />
+            <element signature="e#6310#6379#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/attack.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/fighterLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/kingdom.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/kingdomLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/mageLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/tankLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/images/visitLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/template.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_04_Heroes/scripts/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!block;n#createEmptyFieldSet#0;n#!!block;n#solve#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

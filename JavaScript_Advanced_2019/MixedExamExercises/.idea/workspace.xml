@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e064e9-c7b5-4d4b-8306-e18fa253beb3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SoftUniCourses/template.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SoftUniCourses/scripts/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AutoService/02_AutoService.js" />
+        <option value="$PROJECT_DIR$/Organization/Organization.js" />
+        <option value="$PROJECT_DIR$/FreelanceOffers/scripts/app.js" />
+        <option value="$PROJECT_DIR$/SoftUniCourses/scripts/solution.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Organization.js">
+    <configuration name="Organization.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Organization.js" working-dir="$PROJECT_DIR$/Organization">
+      <method v="2" />
+    </configuration>
+    <configuration name="AutoService\02_AutoService.js" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/AutoService/02_AutoService.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test AutoService class" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/AutoService/02_AutoService.js</test-file>
+      <test-names>
+        <name value="Test AutoService class" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test AutoService class.Test repairCar function" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/AutoService/02_AutoService.js</test-file>
+      <test-names>
+        <name value="Test AutoService class" />
+        <name value="Test repairCar function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test AutoService class.Test repairCar function.should retrun message with repair parts" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/AutoService/02_AutoService.js</test-file>
+      <test-names>
+        <name value="Test AutoService class" />
+        <name value="Test repairCar function" />
+        <name value="should retrun message with repair parts" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test AutoService class.Test repairCar function.should return message if there are no broken parts in car" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/AutoService/02_AutoService.js</test-file>
+      <test-names>
+        <name value="Test AutoService class" />
+        <name value="Test repairCar function" />
+        <name value="should return message if there are no broken parts in car" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.AutoService\02_AutoService.js" />
+      <item itemvalue="Mocha.Test AutoService class.Test repairCar function" />
+      <item itemvalue="Mocha.Test AutoService class.Test repairCar function.should return message if there are no broken parts in car" />
+      <item itemvalue="Mocha.Test AutoService class.Test repairCar function.should retrun message with repair parts" />
+      <item itemvalue="Mocha.Test AutoService class" />
+      <item itemvalue="Node.js.Organization.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Organization.js" />
+        <item itemvalue="Mocha.Test AutoService class" />
+        <item itemvalue="Mocha.Test AutoService class.Test repairCar function.should retrun message with repair parts" />
+        <item itemvalue="Mocha.Test AutoService class.Test repairCar function.should return message if there are no broken parts in car" />
+        <item itemvalue="Mocha.Test AutoService class.Test repairCar function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e064e9-c7b5-4d4b-8306-e18fa253beb3" name="Default Changelist" comment="" />
+      <created>1562077073750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562077073750</updated>
+      <workItem from="1562077075531" duration="6639000" />
+      <workItem from="1562084752148" duration="1192000" />
+      <workItem from="1562147993735" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_AutoService_class_Test_carInfo_function - 2019.07.02 at 17h 46m 52s.xml">
+      <configuration name="Test AutoService class.Test carInfo function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_carInfo_function - 2019.07.02 at 17h 47m 41s.xml">
+      <configuration name="Test AutoService class.Test carInfo function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_carInfo_function - 2019.07.02 at 17h 49m 11s.xml">
+      <configuration name="Test AutoService class.Test carInfo function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_carInfo_function - 2019.07.02 at 17h 50m 09s.xml">
+      <configuration name="Test AutoService class.Test carInfo function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_carInfo_function_should_return_return_client_information_object - 2019.07.02 at 17h 52m 51s.xml">
+      <configuration name="Test AutoService class.Test carInfo function.should return return client information object" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_repairCar_function - 2019.07.02 at 17h 56m 29s.xml">
+      <configuration name="Test AutoService class.Test repairCar function" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_repairCar_function_should_return_message_if_there_are_no_broken_parts_in_car - 2019.07.02 at 17h 59m 04s.xml">
+      <configuration name="Test AutoService class.Test repairCar function.should return message if there are no broken parts in car" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_repairCar_function_should_retrun_message_with_repair_parts - 2019.07.02 at 18h 00m 59s.xml">
+      <configuration name="Test AutoService class.Test repairCar function.should retrun message with repair parts" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class_Test_repairCar_function_should_retrun_message_with_repair_parts - 2019.07.02 at 18h 01m 16s.xml">
+      <configuration name="Test AutoService class.Test repairCar function.should retrun message with repair parts" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test_AutoService_class - 2019.07.02 at 18h 01m 23s.xml">
+      <configuration name="Test AutoService class" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7870000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24925596" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="3" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AutoService/02_AutoService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#AutoService#0" />
+            <element signature="n#!!block;n#availableSpace#0;n#AutoService#0" />
+            <element signature="n#!!block;n#signUpForReview#0;n#AutoService#0" />
+            <element signature="n#!!block;n#carInfo#0;n#AutoService#0" />
+            <element signature="e#1915#1923#0" />
+            <element signature="e#1968#1984#0" />
+            <element signature="e#2383#2399#0" />
+            <element signature="e#2557#2573#0" />
+            <element signature="e#3507#3523#0" />
+            <element signature="e#3564#3588#0" />
+            <element signature="e#3798#3822#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Organization/Organization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!block;n#departmentsBudget#0;n#Organization#0" />
+            <element signature="n#!!block;n#add#0;n#Organization#0" />
+            <element signature="n#!!block;n#employeeExists#0;n#Organization#0" />
+            <element signature="n#!!block;n#leaveOrganization#0;n#Organization#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FreelanceOffers/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="136" column="26" lean-forward="true" selection-start-line="136" selection-start-column="26" selection-end-line="136" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FreelanceOffers/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoftUniCourses/template.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoftUniCourses/scripts/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
