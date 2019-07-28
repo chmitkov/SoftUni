@@ -1,0 +1,22 @@
+{{> header}}
+<div id="main">
+    {{#if isAuth}}
+        {{#if isCarsEmpty}}
+            <p class="no-cars">No cars in database.</p>
+        {{else}}
+            {{> carListings}}
+        {{/if}}
+        
+    {{else}}
+    <div id="welcome-container">
+        <h1>Welcome To Car Tube</h1>
+        <img src="./style/images/finance-car.png" alt="carIntro">
+        <h2>Login or register to check out our listings or to make one</h2>
+        <div id="button-div">
+            <a href="#/login" class="button">Login</a>
+            <a href="#/register" class="button">Register</a>
+        </div>
+    {{/if}}
+    </div>
+</div>
+{{> footer}}

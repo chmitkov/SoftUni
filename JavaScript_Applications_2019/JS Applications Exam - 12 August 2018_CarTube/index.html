@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Car Tube</title>
+    <link rel="stylesheet" href="style/site.css">
+    <link rel="stylesheet" href="style/welcome.css">
+    <link rel="stylesheet" href="style/car-listings.css">
+    <link rel="stylesheet" href="style/login-register.css">
+    <link rel="stylesheet" href="style/my-listings.css">
+    <link rel="stylesheet" href="style/footer.css">
+    <link rel="stylesheet" href="style/navigation.css">
+    <link rel="stylesheet" href="style/notifications.css">
+    <link rel="stylesheet" href="style/listing-details.css">
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/scripts/notification.js"></script>
+</head>
+
+<body>
+    <div id="notifications">
+        <div id="loadingBox" class="notification">
+            <span>Loading …</span>
+        </div>
+        <div id="infoBox" class="notification">
+            <span>Info</span>
+        </div>
+        <div id="errorBox" class="notification">
+            <span>Error</span>
+        </div>
+    </div>
+
+    <div id="root">
+    </div>
+
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="node_modules/handlebars/dist/handlebars.min.js"></script>
+    <script src="node_modules/sammy/lib/sammy.js"></script>
+    <script src="node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+    <script src="./scripts/kinvey.js"></script>
+    <script src="./scripts/app.js"></script>
+  
+    <!-- services -->
+    <script src="/scripts/services/user-service.js"></script>
+    <script src="/scripts/services/car-service.js"></script>
+    <!-- handlers -->
+    <script src="/scripts/handlers/home-handler.js"></script>
+    <script src="/scripts/handlers/user-handler.js"></script>
+    <script src="/scripts/handlers/car-handlers.js"></script>
+</body>
+
+</html>
