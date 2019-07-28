@@ -1,0 +1,15 @@
+{{> header}}
+<div id="cinema">
+    <h1>{{pageTitle}}</h1>
+    <form action="#/search" method="POST">
+        <label>Search genre:</label>
+        <input type="text" name="search">
+        <input type="submit" value="Search">
+    </form>
+    <div class="movies">
+        {{#each movies}}
+            {{> movie}}
+        {{/each}}
+    </div>
+</div>
+{{> footer}}
