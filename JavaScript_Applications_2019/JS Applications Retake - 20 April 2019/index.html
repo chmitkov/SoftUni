@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="./node_modules/jquery/dist/jquery.js"></script>
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="./styles/styles.css" />
+    <link rel="stylesheet" href="/styles/notifications.css">
+    <script src="./node_modules/jquery/dist/jquery.js"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="./node_modules/handlebars/dist/handlebars.js"></script>
+    <script src="./node_modules/sammy/lib/sammy.js"></script>
+    <script src="./node_modules/sammy/lib/plugins/sammy.handlebars.js"></script>
+    <script src="/scripts/notification.js"></script>
+    <title>CookUni</title>
+</head>
+
+<body>
+    <div id="notifications">
+        <div id="successBox" class="alert alert-success" role="alert">{Success Message...}</div>
+        <div id="loadingBox" class="alert alert-info" role="alert">Loading...</div>
+        <div id="errorBox" class="alert alert-danger" role="alert">{Error Message...}</div>
+    </div>
+
+    <div id="root" class="cover-container w-100 d-flex h-100 p-3 mx-auto flex-column">
+        <h1 class="text-center">Our Recipes</h1>
+    </div>
+</body>
+
+<!-- Libraries -->
+
+
+<!-- My Scripts -->
+<script src="/scripts/app.js"></script>
+<script src="/scripts/kinvey.js"></script>
+
+<!-- services -->
+<script src="/scripts/services/user-service.js"></script>
+<script src="/scripts/services/recipe-service.js"></script>
+
+<!-- handlers -->
+<script src="/scripts/handlers/home-handler.js"></script>
+<script src='/scripts/handlers/user-handler.js'></script>
+<script src="/scripts/handlers/recipe-handler.js"></script>
+
+</html>
