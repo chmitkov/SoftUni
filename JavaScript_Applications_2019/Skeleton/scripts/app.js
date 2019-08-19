@@ -26,21 +26,6 @@ $(() => {
     this.get('#/like/:id', handlers.likeSong);
 
     this.post('#/createSong', handlers.createSong);
-
-    // pets routes
-    this.get('#/dashboard/(:category)?', handlers.getDashboard);
-    this.get('#/createPet', handlers.getCreatePet);
-    this.get('#/myPets', handlers.getMyPets);
-    this.get('#/details/(:id)?', handlers.getDetails);
-    this.get('#/delete/:id', handlers.getDeletePet);
-        this.get('#/otherDetails/:id', handlers.getOtherDetails);
-        this.get('#/like/:id', handlers.likePet);
-
-  
-    //pets post routs
-    this.post('#/createPet', handlers.createPet);
-    this.post('#/save/(:id)?', handlers.savePet);
-    this.post('#/deletePet/(:id)?', handlers.deletePet);
   
   });
   app.run('#/home');

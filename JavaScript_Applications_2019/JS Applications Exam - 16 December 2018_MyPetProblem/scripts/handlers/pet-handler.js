@@ -132,5 +132,5 @@ handlers.deletePet = function (ctx) {
 }
 
 handlers.likePet = function (ctx, ev) {
-    console.log(this);
+    console.log('ok');
 }

@@ -1,0 +1,11 @@
+{{> header}}
+<section id="mySongsView">
+    <div class="background-spotify">
+        <div class="song-container">
+            {{#each songs}}
+                {{> song}}
+            {{/each}}   
+        </div>
+    </div>
+</section>
+{{> footer}}
