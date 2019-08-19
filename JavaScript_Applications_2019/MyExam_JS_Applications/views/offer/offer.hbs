@@ -1,0 +1,25 @@
+<tr>
+    <td class="">{{number}}</td>
+    <td class="">{{product}}</td>
+    <td class="description">{{description}}</td>
+    <td class="">{{price}}</td>
+
+    {{#if isCreator}}
+    <td>
+         <a href='#/details/{{_id}}' class="btn-primary btn">Order details</a>
+    </td>
+    <td>
+        <a href='#/delete/{{_id}}' class="btn-danger btn">Delete</a>
+        <a href='#/edit/{{_id}}' class="btn-info btn">Edit</a>
+
+    </td>
+    {{else}}
+    <td>
+        <a href='#/details/{{_id}}' class="btn-primary btn">Order details</a>
+    </td>
+    <td>
+         <a href="#/buy/{{_id}}" class="btn-warning btn">Buy</a>
+    </td>
+    {{/if}}
+
+</tr>
